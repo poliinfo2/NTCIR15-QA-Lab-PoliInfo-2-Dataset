@@ -1,0 +1,7239 @@
+[
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕新しい政策の展開で改革のうねり巻き起こし、一人ひとりが輝く社会を実現。〔2〕直ちに取組が可能なものは具体化。今後も新たな施策を展開し国の将来を切り拓く。〔3〕現場の発想力で具体的政策実現し、改革進める。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00001",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕新しい知事として幅広い視点から東京の将来像を示せ。〔2〕25年度予算案は堅実だが公約の苗を植えた段階。今後の取組含め見解は。〔3〕地方分権改革に向けた取組は。",
+  "SubTopic": "都政運営"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "首都東京は日本の心臓であり、力強い鼓動により日本を支え、日本を変えていく。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00002",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都の役割の基本的見解は。",
+  "SubTopic": "尖閣諸島活用"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "消防少年団員の倍増等地域の担い手を育て、企業の備蓄への支援等で取組を加速化。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00003",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "いかに都民の共助、自助を後押しして安全・安心の東京をつくり上げるのか。",
+  "SubTopic": "防災対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "新たな補助制度を25年度開始し、供給側・需要側の一体的取組進めバランスを確保。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00004",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "電力の供給側の改革とともに需要側の施策の進化により最適な制御を。",
+  "SubTopic": "エネルギー戦略"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "戦略的な外国企業誘致、環境等成長分野の振興、中小企業の海外展開支援等を推進。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00005",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "特区等産業振興をどう図るのか。",
+  "SubTopic": "産業振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "企業価値を高めるため安定的に黒字を確保し経営基盤を一層強化することが先決。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00006",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "今後の方向性について見解は。",
+  "SubTopic": "新銀行東京"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "意欲ある若者と中小企業とのマッチング等効果的施策を展開し、中小企業の意欲ある取組の支援を充実させ経済を活性化させる。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00007",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "雇用を守り民間給与を上げる取組を。",
+  "SubTopic": "雇用"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "新市場用地の土壌汚染対策に万全を期すため豊洲新市場開場を1年延期。築地の食文化の継承は中央区の取組に引き続き協力。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00008",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "食の安全・安心確保と食文化の拠点継承について知事の見解は。",
+  "SubTopic": "築地市場移転問題"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "安全で適正な利用のための条例や道路整備の促進により快適な都市空間を創出。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00009",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "交通手段として明確に位置づけた都市像を描くことについて見解は。",
+  "SubTopic": "自転車の利用促進"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "開催への熱意や都市の魅力を調査団に訴え、国家総力挙げて招致レースを戦い抜く。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00010",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "国等と一体で積極的に活動すべき。今後の取組は。",
+  "SubTopic": "オリンピック・パラリンピック招致"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "生きる力と支え合う力を重視し、厳しい時代を生き抜き次代を切り拓く人間を育成。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00011",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "教育の充実に向けた見解は。",
+  "SubTopic": "教育再生"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕安心して子育てできる環境を民間の力と連携し整備するのが行政の役割。東京スマート保育の創設等により支援。〔2〕救急医療の東京ルールによる迅速な搬送に加え、25年度は救急搬送患者を受け止める仕組みを強化。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00012",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕子育て支援について基本認識は。〔2〕救急医療体制の充実への見解は。",
+  "SubTopic": "医療・福祉施策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "法律等で明記されており都の策定は不要。今後も被害者支援に積極的に取り組む。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00013",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "権利章典を策定すべき。",
+  "SubTopic": "犯罪被害者等支援"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "多様な魅力を持つ多摩地域の特性を活用した新たな多摩ビジョンを今般策定。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00014",
+  "MainTopic": "新知事の東京の将来像を示せ<br>エネルギー需要側の政策進化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "酒井大史（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "知事の基本姿勢は。",
+  "SubTopic": "多摩地域の振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "建設的な議論を交わしながらともに改革を前に進め、東京を世界一の都市にしたい。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00015",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "議会と車の両輪となり、意思と情熱を持って進めてほしい。知事の考えは。",
+  "SubTopic": "都政運営"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事本局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "会計年度を越えて管理するため基金を造成。今後国に託すため地元とも連携し都民・国民の志が生かされるよう対応する。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00016",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "基金化への基本的考えは。",
+  "SubTopic": "尖閣諸島寄附金"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "積極的な施策展開と強固な財政基盤の両面に目配りし、使命を確実に果たしたい。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00017",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "短期・中期両面から都政の役割を確実に果たし、施策展開を支え得る運営を。",
+  "SubTopic": "財政運営"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    150,
+    100
+  ],
+  "AnswerSpeaker": [
+    "総務局長",
+    "水道局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕防災関係機関との連携方法等を整理した対処要領を策定。相互の動きを結び付け初動対応力を強化。〔2〕民間団体等への説明会や多様なツールを活用した広報活動、一時滞在施設の協力事業者への補助制度創設等、様々な取組を展開し社会全体に浸透させる。",
+    "〔3〕25年度から3カ年で2千600セットの資器材を希望の区市町に配布。私道等の簡易排水栓の初期消火への活用を検討。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00018",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕実効性ある初動体制確立への取組は。〔2〕帰宅困難者対策の周知と支援の取組は。〔3〕応急給水用資器材等の区市町村への配布等、初期消火に資する施策を検討すべき。",
+  "SubTopic": "防災対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "陸海空のネットワークを構築し既存インフラの戦略的更新や耐震化を図る。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00019",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "良質な都市基盤を次世代に引き継ぐため今後どう取り組んでいくのか。",
+  "SubTopic": "都市基盤整備"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "不燃化特区を50地区とし、取組を大幅に拡大。都は区の後押しや民間ノウハウの活用等短期間で実効性の上がる対策に取り組む。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00020",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "首都直下地震の切迫性からも待ったなしの対策が必要。解消に向けた決意は。",
+  "SubTopic": "木密地域"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "都市整備局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "改修工事助成単価の割り増しや融資上限額の大幅引き上げ等支援策を拡充。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00021",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "一刻も早い耐震化が必要。所有者への支援策充実へ取組は。",
+  "SubTopic": "緊急輸送道路沿道建築物"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "24年12月に策定した整備計画では2020年までに完了させる。既に隅田川下流部等4水門の設計に着手し全力で推進。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00022",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "地震・津波に備え、堤防や水門等の早期の耐震対策が必要。取組は。",
+  "SubTopic": "東部低地帯"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "環境局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "見込みは17％。24年度末の確定に向け検討。中小企業等への配慮も早急に検討。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00023",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "27年度からの第二計画期間の削減義務率をいつ示すのか。達成困難な中小企業等への対応は。",
+  "SubTopic": "キャップ・アンド・トレード制度"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "予防、早期発見等を柱に、緩和ケアや相談体制等新たな施策を盛り込んだ。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00024",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "今回の改定の特徴は。",
+  "SubTopic": "がん対策推進計画"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "東京だけでなく被災地、日本全体の大会。自ら先頭に立って強いチームをつくり、国家の総力を挙げて招致を必ず成功させる。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00025",
+  "MainTopic": "将来への希望を示す都政運営を<br>発災時の万全の初動体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野島善司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都民、国民に元気と夢、希望を与えるためオールジャパンで取り組むべき。知事の決意は。",
+  "SubTopic": "オリンピック・パラリンピック招致"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事",
+    "教育長",
+    "生活文化局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕民間の参入意欲を高め、官民の英知を集めた取組を誘導し木密の解消を加速する。",
+    "〔2〕区市町村負担分を25年度全額補助。",
+    "〔2〕25年度から国と合わせ費用の3分の2を補助する新制度により促進。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00026",
+  "MainTopic": "大胆な発想の転換で木密対策を<br>特別借換融資を早期開始すべき",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "中嶋義雄（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕容積率移転制度を活用し木密地域対策に民間資本の参入を促すべき。〔2〕公立小中学校への非構造部材耐震化補助制度の運用と私立学校への支援について見解は。",
+  "SubTopic": "防災・減災対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "様々な分野で現地の実情に即した支援に取り組んできた。今後も首都の責務果たす。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00027",
+  "MainTopic": "大胆な発想の転換で木密対策を<br>特別借換融資を早期開始すべき",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "中嶋義雄（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "3県の現地事務所を通じてニーズを的確に把握し息の長い支援を。見解は。",
+  "SubTopic": "被災地支援"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    150
+  ],
+  "AnswerSpeaker": [
+    "環境局長",
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕25年度新設の補助事業を集合住宅にも適用して取組を支援し市場拡大を誘導。",
+    "〔2〕25年3月から取り扱いを開始。保証付融資の一本化と返済期間延長で負担軽減を図る。〔3〕派遣回数を600回分追加。資金繰りが逼迫した企業には無料派遣も実施。〔4〕25年度から民間就職サイトを活用した中小企業の求人情報の発信等マッチングを推進。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00028",
+  "MainTopic": "大胆な発想の転換で木密対策を<br>特別借換融資を早期開始すべき",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 150,
+  "QuestionSpeaker": "中嶋義雄（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕スマートエネルギー推進補助事業を戸建てだけでなく集合住宅にも適用すべき。〔2〕中小企業金融円滑化法が終了するため、特別借換融資の取り扱いを早期に開始すべき。〔3〕専門家派遣事業の大幅な拡充を。〔4〕若年者の就職活動の実態を踏まえ、民間ノウハウも活用して就職支援の充実を図るべき。",
+  "SubTopic": "成長産業支援"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    200,
+    100
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長",
+    "都市整備局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕小児がん診療連携ネットワークを構築。25年度に協議会を設置し、具体的に検討。〔2〕25年度独自に実態調査を実施。調査結果を活用し事業主への啓発や相談機能強化により支援。〔3〕既に選定した11件のモデル事業を詳細に検証し整備促進策を検討。〔4〕看護師が訪問しケアを行う在宅レスパイト事業を区市町村包括補助事業に25年度追加。",
+    "〔3〕住宅整備費補助に加え、近隣の医療事業者等との連携体制が確保される場合の都独自の追加支援策を新たに実施。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00029",
+  "MainTopic": "大胆な発想の転換で木密対策を<br>特別借換融資を早期開始すべき",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 150,
+  "QuestionSpeaker": "中嶋義雄（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕豊富な医療資源と都の特性を生かし、総合的な小児がん対策を進めよ。〔2〕がん患者が治療を受けながら仕事を継続できるよう支援を。〔3〕サービス付き高齢者住宅の目標1万戸達成に向け全庁的に取り組むべき。〔4〕重症心身障害児・者の在宅での医療ケアが可能となるよう対策進めるべき。方針は。",
+  "SubTopic": "医療福祉施策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "法令等に基づき、各保険者に対する財政支援を既に実施している。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00030",
+  "MainTopic": "都民の暮らしと福祉を守り<br>地方自治体としての役割果たせ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "清水ひで子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "国の負担の拡充を求め、国保料・税を値下げできるよう都独自の区市町村補助を。",
+  "SubTopic": "国保"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕地域の介護ニーズを踏まえて、計画的に整備を進めている。〔2〕26年度末までに4万5千人余のサービス量を確保する。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00031",
+  "MainTopic": "都民の暮らしと福祉を守り<br>地方自治体としての役割果たせ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "清水ひで子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕遅れた介護施設整備の現状認識は。〔2〕特養ホーム整備目標の引き上げを。",
+  "SubTopic": "高齢者対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "24年度からの3年間に保育サービス全体で2万4千人分の確保を目指す。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00032",
+  "MainTopic": "都民の暮らしと福祉を守り<br>地方自治体としての役割果たせ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "清水ひで子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都民が強く求める認可保育園の大幅増設をスピード感を持って進めるべき。",
+  "SubTopic": "待機児問題"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "最低賃金の決定に都は関与できない。都に権限与えられるなら共闘してもよい。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00033",
+  "MainTopic": "都民の暮らしと福祉を守り<br>地方自治体としての役割果たせ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "清水ひで子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "最低賃金時給千円以上という明確な目標を持ち、実現に力を尽くすべき。",
+  "SubTopic": "雇用対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年度予算でも知的財産保護等の新規事業を含め必要な支援策を措置している。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00034",
+  "MainTopic": "都民の暮らしと福祉を守り<br>地方自治体としての役割果たせ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "清水ひで子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "予算倍増し企業の活性化を。",
+  "SubTopic": "中小企業対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "商店街には様々な支援を推進。24年度から買い物弱者支援モデル事業も実施。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00035",
+  "MainTopic": "都民の暮らしと福祉を守り<br>地方自治体としての役割果たせ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "清水ひで子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "現状の認識と対応は。",
+  "SubTopic": "商店街と買い物弱者"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "感情論ではなく、現場の実態を知り、国家戦略として決めていかなければいけない。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00036",
+  "MainTopic": "都民の暮らしと福祉を守り<br>地方自治体としての役割果たせ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "清水ひで子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "知事は石原前知事と同様、原発は必要との立場か。原発ゼロの立場をとるのか。",
+  "SubTopic": "原発"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "都市整備局長",
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕防災都市づくり推進計画の整備地域に的を絞り、助成を実施していく。",
+    "〔2〕人材確保等への支援を強化する。"
+  ],
+  "Date": "2013-02-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00037",
+  "MainTopic": "都民の暮らしと福祉を守り<br>地方自治体としての役割果たせ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "清水ひで子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕住宅耐震改修助成は地域を限定せず大幅増を。〔2〕消防団の充実・強化を。",
+  "SubTopic": "震災対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "省エネ意欲に繋がる。国内初のソーラー屋根台帳の整備により太陽光発電普及の加速化を図る等、効果を具体化する施策を推進。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00038",
+  "MainTopic": "「見える化」で省エネの推進を<br>振り込め詐欺の被害を防止せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "西岡真一郎（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "消費量の状態の「見える化」は省エネ推進に重要と認識。意義は。",
+  "SubTopic": "エネルギー対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "警視総監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "高齢者への直接的注意喚起に加え、企業等と連携し親等への働きかけを強化する。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00039",
+  "MainTopic": "「見える化」で省エネの推進を<br>振り込め詐欺の被害を防止せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "西岡真一郎（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "強化に向けた方針は。",
+  "SubTopic": "振り込め詐欺対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "広く多摩産材をＰＲする事業者の取組や美術館の内装の木質化等波及効果が期待できる取組等を支援。今後も推進図る。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00040",
+  "MainTopic": "「見える化」で省エネの推進を<br>振り込め詐欺の被害を防止せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "西岡真一郎（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "一層の推進へ取組は。",
+  "SubTopic": "多摩産材の民間利用"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事本局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "3つの規制緩和を求め、特区法に基づく協議を区の要望を踏まえ進めている。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00041",
+  "MainTopic": "羽田空港跡地に産業交流施設を<br>港南四水門の防災対策強化せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "鈴木あきまさ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "施設整備に向けた国との規制緩和協議を区と連携し精力的に進めよ。",
+  "SubTopic": "羽田空港跡地"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "港湾局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "水門を廃止し防潮堤整備を進める。25年度は南前堀水門の防潮堤設計を実施。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00042",
+  "MainTopic": "羽田空港跡地に産業交流施設を<br>港南四水門の防災対策強化せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "鈴木あきまさ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "新たな整備計画での方針は。",
+  "SubTopic": "港南四水門"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "下水道局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "準高度処理等で水質改善図る。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00043",
+  "MainTopic": "羽田空港跡地に産業交流施設を<br>港南四水門の防災対策強化せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "鈴木あきまさ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "他センターとのネットワーク化による放流量や水質の対策は。",
+  "SubTopic": "森ヶ崎水再生センター"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "都市整備局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "都は国や地元と連携し整備に取り組む。国は25年度に実証実験を予定。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00044",
+  "MainTopic": "都営交通の相互乗り入れ路線に<br>新技術でホームドアを整備せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉倉正美（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "新技術で整備の加速を。",
+  "SubTopic": "駅のホームドア"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "都市整備局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "区内や近隣に住居を確保。今後も居住者の事情等に配慮しながら取り組む。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00045",
+  "MainTopic": "都営交通の相互乗り入れ路線に<br>新技術でホームドアを整備せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉倉正美（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "居住者の様々な要望を受け止め、安心できる移転先の確保を。",
+  "SubTopic": "霞ヶ丘アパート建て替え"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "警視総監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "重点的取り締まりを継続し条例改正で規制を強化。引き続き取り締まりを推進。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00046",
+  "MainTopic": "都営交通の相互乗り入れ路線に<br>新技術でホームドアを整備せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉倉正美（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "風評を下げる強引な客引き行為の取り締まりについて所見は。",
+  "SubTopic": "歌舞伎町地区の浄化"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "環境局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "大規模事業所の総量削減義務制度や住宅用太陽光発電補助等で大きな効果。今後とも低炭素都市の実現を目指し対策進める。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00047",
+  "MainTopic": "東京に住まう喜び生む農業振興<br>緑あふれる東京を実現せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山下ようこ（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "施策の成果と今後の取組は。",
+  "SubTopic": "気候変動対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "市場競争力や収益性が高く地域の特産物になる品種を開発し農家に普及。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00048",
+  "MainTopic": "東京に住まう喜び生む農業振興<br>緑あふれる東京を実現せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山下ようこ（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "品種開発は農業経営支え暮らし豊かにする。農林総合研究センターの取組は。",
+  "SubTopic": "農業振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "江戸時代から世界有数の緑豊かな都市。あらゆる空間で緑化推進しオリンピック・パラリンピック開催にふさわしい都市を実現。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00049",
+  "MainTopic": "東京に住まう喜び生む農業振興<br>緑あふれる東京を実現せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山下ようこ（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "実現に向けた知事の決意は。",
+  "SubTopic": "緑豊かな東京"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "東電に早急な対応を強く申し入れ25年度以降の事業募集表明受けた。着実に進める。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00050",
+  "MainTopic": "老朽火力発電所のリプレースで<br>電力安定供給への道筋つけよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "高橋かずみ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "エネルギー政策推進に不可欠。今後どう進めるのか。",
+  "SubTopic": "東電の老朽火力発電所リプレース"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "検討を進め前向きに取り組む。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00051",
+  "MainTopic": "老朽火力発電所のリプレースで<br>電力安定供給への道筋つけよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "高橋かずみ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "西武新宿線井荻駅から東伏見駅間における現在の検討状況は。",
+  "SubTopic": "連続立体交差事業"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "交通局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "補助230号線整備状況受け検討。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00052",
+  "MainTopic": "老朽火力発電所のリプレースで<br>電力安定供給への道筋つけよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "高橋かずみ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "練馬区北西部の住民の悲願。事業化に向けて地質調査等の検討深めるべき。",
+  "SubTopic": "大江戸線延伸"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "都市整備局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "積極的活用は重要。流通調査や国の事業を活用したモデル事業に取り組む。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00053",
+  "MainTopic": "高齢者の住まいの安定確保を<br>第三者の学校評価で問題解決を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "しのづか元（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "空き家の活用促進は市場活性化や行政課題の解決に繋がる。認識と施策は。",
+  "SubTopic": "空き家対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "東京モデルを提案し、ケア付き住まい、都市型軽費老人ホーム等の整備を推進。今後は期間限定の追加支援策により整備を加速。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00054",
+  "MainTopic": "高齢者の住まいの安定確保を<br>第三者の学校評価で問題解決を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "しのづか元（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "取組は。",
+  "SubTopic": "高齢者が安心して暮らせる住まい"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "外部有識者の学校経営診断等で教育活動全般を明らかにし、問題解決に取り組む。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00055",
+  "MainTopic": "高齢者の住まいの安定確保を<br>第三者の学校評価で問題解決を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "しのづか元（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "学校の閉鎖性解決に向けた都立学校の第三者による評価への取組は。",
+  "SubTopic": "体罰・いじめ問題"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "国家総力戦と認識。政府やスポーツ関係者等が一丸となり高い評価の獲得を目指す。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00056",
+  "MainTopic": "ＩＯＣに東京招致の熱意を示せ<br>東部低地帯の河川の耐震対策を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山崎一輝（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "投票行動に大きな影響を及ぼす訪問を前に知事の意気込みは。",
+  "SubTopic": "ＩＯＣ評価委員の来日"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "24年12月に策定した整備計画では、水門全箇所と水門外側の堤防等は2020年までに対策を完了。優先度の高い箇所は既に民間提案を受け契約を行い、設計に着手。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00057",
+  "MainTopic": "ＩＯＣに東京招致の熱意を示せ<br>東部低地帯の河川の耐震対策を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山崎一輝（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "東部低地帯を守る河川の堤防や水門等に関わる耐震対策への都の取組は。",
+  "SubTopic": "防災対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "水道局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕被害大きい地域等優先し取り換え。〔2〕25年度500セット、3カ年で2千600セット配布。要望状況で前倒し拡大検討。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00058",
+  "MainTopic": "水道管継手の耐震化を進めよ<br>スタンドパイプを増・常設せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "伊藤こういち（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕延焼阻止のため水道管の継手耐震化を木密地域に重点化して整備をすべき。〔2〕応急給水と初期消火にも活用できるスタンドパイプの増・常設配置を速やかに進めよ。",
+  "SubTopic": "防災対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "即時に伝わる体制を早急に働きかけ。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00059",
+  "MainTopic": "水道管継手の耐震化を進めよ<br>スタンドパイプを増・常設せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "伊藤こういち（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "一刻も早く都内全ての公立学校に緊急地震速報が導入されるよう区市町村への働きかけを強化すべき。見解は。",
+  "SubTopic": "子供の安全"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "区市町村の休日保育事業を保育対策等促進事業等で支援。拡充働きかける。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00060",
+  "MainTopic": "多様な保育サービスの展開を<br>救急搬送時間短縮に向け取組を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山口拓（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "サービス業等で休日も働く保護者にとって休日保育の必要性は高い。拡充を。",
+  "SubTopic": "保育施策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "救急医療対策協議会で二次救急体制見直し等を議論。今後答申踏まえ検討。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00061",
+  "MainTopic": "多様な保育サービスの展開を<br>救急搬送時間短縮に向け取組を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山口拓（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "搬送時間の短縮に向け救急医療体制の充実強化が必要と考える。見解は。",
+  "SubTopic": "救命救急搬送"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "フラッグ掲出やイベント開催等、地域等と連携しあらゆる機会捉え盛り上げる。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00062",
+  "MainTopic": "多様な保育サービスの展開を<br>救急搬送時間短縮に向け取組を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山口拓（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "開催都市決定までの都民の支持率獲得への見解は。",
+  "SubTopic": "オリンピック・パラリンピック招致"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "電力の地産地消を図る先駆的な取組。各島のポテンシャルを調査し島しょ地域全体で再生可能エネルギー導入を促進したい。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00063",
+  "MainTopic": "各島の特性に応じた再生可能<br>エネルギーの導入を検討すべき",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "三宅正彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "八丈島の地熱発電拡大プロジェクトが持つ意義について所見は。",
+  "SubTopic": "再生可能エネルギー"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "農漁業強化等の重点的な推進を掲げた離島振興計画素案を公表した。策定後は事業主体の町村と連携して確実に推進する。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00064",
+  "MainTopic": "各島の特性に応じた再生可能<br>エネルギーの導入を検討すべき",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "三宅正彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "島の抱える課題の解決と持続的発展のためどのように取り組んでいくのか。",
+  "SubTopic": "離島振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "良好な国際関係の中での平和と独立の維持が国家の基本。米軍基地は返還等も絶えず検討されるべき。島しょ地域の振興を図ることは国益維持・領土保全に資すると認識。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00065",
+  "MainTopic": "知事の国家観、領土への考え、<br>米軍基地との関係等政治姿勢は",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "笹本ひさし（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "国家観、領土への考え、日米安保を踏まえた米軍基地に対する見解は。",
+  "SubTopic": "知事の基本姿勢"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "多くの課題があり幅広く議論する。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00066",
+  "MainTopic": "知事の国家観、領土への考え、<br>米軍基地との関係等政治姿勢は",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "笹本ひさし（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "区への事務移譲への見解は。",
+  "SubTopic": "児童相談所"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "高砂駅の車両基地の取り扱い等は時間要する課題。地元区等と連携し検討。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00067",
+  "MainTopic": "知事の国家観、領土への考え、<br>米軍基地との関係等政治姿勢は",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "笹本ひさし（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "京成本線高砂駅から江戸川駅間の事業化について今後の展開と課題は。",
+  "SubTopic": "連続立体交差化"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "32年度までに優先整備区域の事業に着手。住民の理解と協力を得ながら推進。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00068",
+  "MainTopic": "祖師谷公園の整備を促進すべき<br>中小企業に障害者雇用の支援を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大場やすのぶ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都市計画決定されているが整備率は2割弱。整備を更に進めるべき。",
+  "SubTopic": "都立祖師谷公園"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "ハンドブック配布やセミナー、マッチング支援のため企業合同説明会も実施。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00069",
+  "MainTopic": "祖師谷公園の整備を促進すべき<br>中小企業に障害者雇用の支援を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大場やすのぶ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "一層の取組支援を。",
+  "SubTopic": "中小企業の障害者雇用"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "水道局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "高度浄水処理100％を機に、あらゆる広報手法を活用してＰＲに取り組む。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00070",
+  "MainTopic": "祖師谷公園の整備を促進すべき<br>中小企業に障害者雇用の支援を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大場やすのぶ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "積極的に進めるべき。",
+  "SubTopic": "高度浄水のＰＲ"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "基金や都の独自補助等を通じて区市町村が行う認可保育所等の整備を支援。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00071",
+  "MainTopic": "安心して移行できる保育環境を<br>芸術文化を活用した復興支援を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "栗林のり子（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "解消に向け保育サービス拡充を。",
+  "SubTopic": "待機児童"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "東京が持つアートの力を生きる糧にしてもらうため、更なる支援を続けていきたい。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00072",
+  "MainTopic": "安心して移行できる保育環境を<br>芸術文化を活用した復興支援を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "栗林のり子（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "芸術文化を活用した都の支援が復興のエネルギーになっている。所見は。",
+  "SubTopic": "被災地支援"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "都市整備局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "地域の特性やニーズを踏まえ、建て替えによる創出用地の活用を進める。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00073",
+  "MainTopic": "安心して移行できる保育環境を<br>芸術文化を活用した復興支援を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "栗林のり子（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都営住宅の建て替えに合わせて地元ニーズに対応したまちづくりの展開を。",
+  "SubTopic": "まちづくり"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "指導体制改善と教育内容充実等に取り組んでいる。進学実績向上に向け更に支援。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00074",
+  "MainTopic": "進学指導推進校の施策効果は<br>足立区の治安再生に向け対策を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大西さとる（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "江北高の進学指導推進校指定効果は。",
+  "SubTopic": "学力"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "警視総監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "引き続き区と協働し、自転車盗抑止対策や防犯カメラの設置促進等を推進する。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00075",
+  "MainTopic": "進学指導推進校の施策効果は<br>足立区の治安再生に向け対策を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大西さとる（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "足立区の治安再生に向け所見を。",
+  "SubTopic": "治安対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "重篤な副反応発生を防止するため、かかりつけ医による個別接種が基本。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00076",
+  "MainTopic": "進学指導推進校の施策効果は<br>足立区の治安再生に向け対策を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大西さとる（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "集団接種再開を。",
+  "SubTopic": "インフルエンザ予防接種"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "監察医務院は隠れた犯罪死の発見等社会秩序の維持に貢献。今後も究明に力を注ぐ。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00077",
+  "MainTopic": "進学指導推進校の施策効果は<br>足立区の治安再生に向け対策を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大西さとる（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "必要性への所見は。",
+  "SubTopic": "解剖による死因究明"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監",
+    "都市整備局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕用地説明会の段階で全関係権利者の意向調査。事情に応じきめ細かく対応。",
+    "〔2〕未接道敷地の区による取得や建物所有者の経済的負担軽減策等を検討。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00078",
+  "MainTopic": "木密地域の特定整備路線整備を<br>高齢者の視点で医療体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "田中たけし（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕特定整備路線の関係権利者の生活再建への取組は。〔2〕東中延1・2丁目、中延2・3丁目地区の現在の検討状況は。",
+  "SubTopic": "防災対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "地域の医療体制確保に向け、全病院のサービス提供状況を把握して検討。"
+  ],
+  "Date": "2013-02-27",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00079",
+  "MainTopic": "木密地域の特定整備路線整備を<br>高齢者の視点で医療体制構築を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "田中たけし（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "高齢社会に相応しい医療体制構築を。",
+  "SubTopic": "医療"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "東京都公園審議会への諮問や都民意見を踏まえ整備計画を策定していく。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00080",
+  "MainTopic": "都民意見を反映した公園整備を<br>待機児対策と保育の質の向上を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "松下玲子（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都民意見を踏まえて拡張整備を行うべき。今後どのように進めるのか。",
+  "SubTopic": "武蔵野中央公園"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕分かりやすい情報提供を区市町村に働きかける。〔2〕経験者等に加え新卒者等対象に新たな取組を開始。〔3〕死亡5件、負傷等46件。都は保育施設への指導等を実施。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00081",
+  "MainTopic": "都民意見を反映した公園整備を<br>待機児対策と保育の質の向上を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "松下玲子（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕認証保育所空き状況の情報提供を。〔2〕保育人材の確保にどう対応するのか。〔3〕都内保育施設での過去3年間の死亡・全治30日以上の事故件数と都の対応は。",
+  "SubTopic": "子育て支援"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "交通局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年度からの3カ年計画でバス車内を機器設置場所に提供し利便性の向上図る。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00082",
+  "MainTopic": "都バスを無料墨東病院のＥＲ機能を強化せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "加藤雅之（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "乗り換えや目的地情報検索のため都バスに無料Ｗｉ-Ｆｉ環境を整備すべき。",
+  "SubTopic": "観光振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "水道局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "10年後75％を目標に整備進める。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00083",
+  "MainTopic": "都バスを無料墨東病院のＥＲ機能を強化せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "加藤雅之（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "今後の目標は。",
+  "SubTopic": "私道内給水管整備"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "病院経営本部長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "ＩＣＵの増床や高気圧酸素治療室設置等機能を強化。地域への円滑な移行を支援するセンターを設置し相談体制強化。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00084",
+  "MainTopic": "都バスを無料墨東病院のＥＲ機能を強化せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "加藤雅之（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "高齢化が進む中で墨東病院のＥＲ強化と患者サービス向上への見解は。",
+  "SubTopic": "都立病院改革"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "ＩＯＣに対するプレゼンテーションの場で、東京マラソンに象徴されるスポーツ都市東京の本当の姿を伝え、アピールしていく。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00085",
+  "MainTopic": "スポーツ都市東京を世界に発信<br>東京ならではの都市外交推進を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "鈴木隆道（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "スポーツ都市東京の魅力を更に一層世界に発信していくべき。見解は。",
+  "SubTopic": "スポーツ振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事本局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "東京が持つ技術やノウハウを世界の各都市と共有する。国際貢献の積み重ねが国際的プレゼンスを高め招致実現に繋がる。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00086",
+  "MainTopic": "スポーツ都市東京を世界に発信<br>東京ならではの都市外交推進を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "鈴木隆道（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "東京だからこそできる都市外交を推進して実現を。",
+  "SubTopic": "オリンピック・パラリンピック招致"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕給食方法の違いによるもの。給食は食に関する指導にも重要であり、時間の確保と質の充実図る。〔2〕言葉の壁を乗り越え自らの意見を的確に伝える能力を育成し、海外大学への進学資格の取得が可能。〔3〕家庭や地域の協力を得て、多様な機会を設定できるよう、取組例の公立小学校への周知等を行う。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00087",
+  "MainTopic": "給食を通じて食育に取り組め<br>世界で活躍する人材の育成を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 150,
+  "QuestionSpeaker": "石毛しげる（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕都立中高一貫校の給食時間の違いと食育における給食の役割は。〔2〕都立高校で国際バカロレア認定の取得を目指す目的は。〔3〕小学校での動物飼育の学習はいじめ、自殺の特効薬。家庭や地域と連携した取組を。",
+  "SubTopic": "教育施策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "全都立高校が参加する書評合戦や言語能力向上推進校の拡大等の取組を更に進める。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00088",
+  "MainTopic": "日本の子供や若者に言葉の力を<br>分教室設置し病院内教育充実を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "岡田眞理子（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "国語力は学習活動の基本。子供や若者に身に付けさせることが肝要。所見は。",
+  "SubTopic": "言葉の力"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "現在4つの病院に設置。今後は児童生徒数や施設の提供等を勘案し適切に対応。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00089",
+  "MainTopic": "日本の子供や若者に言葉の力を<br>分教室設置し病院内教育充実を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "岡田眞理子（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "教員が常駐して子供と向き合うことができる分教室を積極的に設置すべき。",
+  "SubTopic": "病院内教育"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "緑地の創出や国際交流機能等立地特性にふさわしい都市居住地域を目指す。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00090",
+  "MainTopic": "日本の子供や若者に言葉の力を<br>分教室設置し病院内教育充実を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "岡田眞理子（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "大会終了後の晴海のまちの姿への見解は。",
+  "SubTopic": "オリンピック・パラリンピック選手村予定地"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "農産物の地産地消推進等8つの方向性を提示。様々な主体と一体で振興を推進。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00091",
+  "MainTopic": "新たなビジョンで多摩の振興を<br>木質バイオマス発電の活用を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "林田武（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "地域の課題踏まえ、新たな多摩のビジョンに基づく振興の方向性と取組は。",
+  "SubTopic": "多摩振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "環境局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "間伐の促進には森林保全効果もある。引き続き市町村を支援し活用に努める。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00092",
+  "MainTopic": "新たなビジョンで多摩の振興を<br>木質バイオマス発電の活用を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "林田武（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "貴重なエネルギー源。西多摩地域を中心に、活用に向け取組を。",
+  "SubTopic": "木質バイオマスの活用"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "情報発信と普及啓発を推進。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00093",
+  "MainTopic": "新たなビジョンで多摩の振興を<br>木質バイオマス発電の活用を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "林田武（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "地元食文化を活用した取組を。",
+  "SubTopic": "観光振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "原文の訳の不備等ある。必要な改正含め国民全体で議論し、基本法の価値高めたい。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00094",
+  "MainTopic": "日本国憲法への知事の評価は<br>ＪＲ十条駅付近の鉄道立体化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "和田宗春（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "重大な議論あるが評価は。",
+  "SubTopic": "日本国憲法"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "土壌汚染対策が必要であり、当該地での整備は将来的な検討課題と認識。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00095",
+  "MainTopic": "日本国憲法への知事の評価は<br>ＪＲ十条駅付近の鉄道立体化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "和田宗春（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "スケートリンク整備を。",
+  "SubTopic": "西が丘産技研跡地"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "選管委事務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "区市町村に積極的広報要請。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00096",
+  "MainTopic": "日本国憲法への知事の評価は<br>ＪＲ十条駅付近の鉄道立体化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "和田宗春（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "介助なしで投票所に行けない人への移動支援の活用を広報せよ。",
+  "SubTopic": "障害者の投票権確保"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "事業範囲や構造形式等の調査を実施中。今後とも区等と連携し検討する。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00097",
+  "MainTopic": "日本国憲法への知事の評価は<br>ＪＲ十条駅付近の鉄道立体化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "和田宗春（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "検討状況は。",
+  "SubTopic": "ＪＲ十条駅付近鉄道立体化"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "24年度から在宅療養支援員養成を開始。地域の取組を支援し連携体制強化。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00098",
+  "MainTopic": "在宅療養へ地域の体制整備を<br>認知症施策の更なる強化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "和泉武彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "多様な職種が在宅医療生活を支えるための体制整備は。",
+  "SubTopic": "退院患者の地域での受け入れ"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "早期発見、診断、支援の取組を充実。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00099",
+  "MainTopic": "在宅療養へ地域の体制整備を<br>認知症施策の更なる強化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "和泉武彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "急増に向け更に施策強化を。",
+  "SubTopic": "認知症対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "都市整備局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "特区制度を活用した専門家派遣等で現場の体制を強化し、区の取組を支援。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00100",
+  "MainTopic": "在宅療養へ地域の体制整備を<br>認知症施策の更なる強化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "和泉武彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "不燃化特区の先行実施地区として実効性の高い取組を。",
+  "SubTopic": "四つ木1・2丁目地区"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "これまで以上に地域の実情踏まえた行政サービスの提供や独自のまちづくりが可能。市の主体的取組にできる限り協力する。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00101",
+  "MainTopic": "八王子市の中核市移行へ協議を<br>違法・脱法ドラッグ対策強化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "近藤充（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都の所見は。",
+  "SubTopic": "八王子市の中核市への移行"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "24年度は海外薬物の国内流通前規制等実施。25年度はインターネットの検索サイトに警告を表示する取組を開始。都が先頭に立ち、責任感持って薬物乱用根絶に全力尽くす。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00102",
+  "MainTopic": "八王子市の中核市移行へ協議を<br>違法・脱法ドラッグ対策強化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "近藤充（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都は国に先駆け先進的な対策を講じてきたが、一層の取組を。",
+  "SubTopic": "違法・脱法ドラッグ対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "結婚、出産後の女性の仕事と生活の両立を支援する企業の取組発信や就業支援行う。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00103",
+  "MainTopic": "少子高齢社会に女性の力発揮を<br>駐輪場設置に向け交渉の強化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山内れい子（ネット・み）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "女性が存分に力を発揮できる就労環境が社会の発展を支える鍵。見解は。",
+  "SubTopic": "女性の就業"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "青少治安本部長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "自転車の利用環境を整備するための協議会を都が設置できることを条例案に盛り込んだ。今後も必要な協力を行う。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00104",
+  "MainTopic": "少子高齢社会に女性の力発揮を<br>駐輪場設置に向け交渉の強化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山内れい子（ネット・み）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都は自治体側の立場に立って鉄道事業者との設置交渉を強化すべき。",
+  "SubTopic": "駅の駐輪場設置"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "引き続き全頭検査を実施する。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00105",
+  "MainTopic": "少子高齢社会に女性の力発揮を<br>駐輪場設置に向け交渉の強化を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山内れい子（ネット・み）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "4月から国産牛のＢＳＥ検査対象が30カ月齢超となるが、都の対応は。",
+  "SubTopic": "食の安全"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "できるだけ包括外部監査で指摘しながらやっていく。まだ知事になったばかり、これからいろいろなことを考えていきたい。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00106",
+  "MainTopic": "日本の沈没を防ぐのは東京だけ<br>現状変え改革スピード加速せよ",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "柳ヶ瀬裕文（東京維新）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "現状変え改革をという都民の願いに応えるべき。公営企業の民営化の検討、外郭団体のゼロベースでの見直し、都の幹部職員の外郭団体への天下り、渡りの根絶、都庁全体の事業の総点検について知事の見解は。",
+  "SubTopic": "行政改革"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "閉塞感に覆われた日本しか知らない子どもたちに、坂の上の雲を示し希望をつくる。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00107",
+  "MainTopic": "五輪は復興への目標にならない<br>原子力災害の視点で避難訓練を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "福士敬子（無（自治市民））",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "今の福島に五輪に浮かれる余裕はない。目的は。",
+  "SubTopic": "オリンピック・パラリンピック招致"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "弁護士や精神科医等の外部専門家チームが関係者から聞き取りを行い解決を図る。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00108",
+  "MainTopic": "五輪は復興への目標にならない<br>原子力災害の視点で避難訓練を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "福士敬子（無（自治市民））",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "第三者的機関が単なる器では意味がない。どのように解決を図るのか。",
+  "SubTopic": "いじめ問題"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "安全確保等の観点で情報は慎重に取り扱うべき。災害の種類問わず訓練を実施。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00109",
+  "MainTopic": "五輪は復興への目標にならない<br>原子力災害の視点で避難訓練を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "福士敬子（無（自治市民））",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "原子力事故防災計画の国のデータを全て公開させ、避難訓練も考慮せよ。",
+  "SubTopic": "原子力防災"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事",
+    "生活文化局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕生きる力と支え合う力の育成を改革の基本とし、発想力駆使して施策を展開する。",
+    "〔2〕区市と連携し、生徒募集時等の就職率のより適正な公表に向け指導する。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00110",
+  "MainTopic": "次代切り拓く子供たちの育成を<br>電力供給システムの抜本改革を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "野上ゆきえ（無（みんなの党））",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕教育こそが社会全体の一層の発展を実現する基盤。教育改革への所見は。〔2〕専門学校が適正な就職率を公表することで都民が的確に学校選択できるよう指導すべき。",
+  "SubTopic": "教育施策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "環境局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "新たに導入支援制度創設し環境性能高いコージェネレーション設備の普及図る。"
+  ],
+  "Date": "2013-02-28",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00111",
+  "MainTopic": "次代切り拓く子供たちの育成を<br>電力供給システムの抜本改革を",
+  "Meeting": "平成25年第1回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "野上ゆきえ（無（みんなの党））",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "地産地消の東京産電力の確保に向け、自立分散型電源普及へ見解は。",
+  "SubTopic": "電力システム改革"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕建設的に議論しコミュニケーションを密にとり同じ目標に向かい努力したい。〔2〕全ての人に優しい都市の実現、現代社会に対応した新たなモデルの構築、持続的発展が可能な都市形成などの政策を明らかにしたい。〔3〕新たな長期ビジョンの実現に向け都議会と議論を重ね都民の負託に応える予算を編成。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00112",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕知事と議会の二元代表制の下、どのような心構えで都政の舵取りを進めるのか。〔2〕新長期ビジョン策定に際し課題認識と政策展開は。〔3〕26年度予算編成への所見は。",
+  "SubTopic": "都政運営"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "洪水や渇水のリスク軽減のためにも必要不可欠。一日も早い完成を国に強く求める。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00113",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "事業の遅れを取り戻し強力に建設を進めるべき。早期完成へ知事の決意は。",
+  "SubTopic": "八ッ場ダム"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年10月に検討委員会を立ち上げ、26年6月を目途に新たな基本方針を策定。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00114",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "一層の推進に向けた取組は。",
+  "SubTopic": "豪雨対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年度から在宅療養患者を地域で受け止めるための医療機関確保等の取組を支援。国の制度改革の動き見据え一層推進。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00115",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "地域全体で支える体制の整備を。",
+  "SubTopic": "在宅療養"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "プロジェクトチームが局横断で検討。長期ビジョン等に反映させ東京モデルを進化。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00116",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "将来を見据えた施策の展開へ所見は。",
+  "SubTopic": "福祉"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年度の区市町村整備の保育サービスは計1万5千人分。今後も促進する。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00117",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "国のプラン等活用し保育サービスの量的拡充を加速すべき。取組は。",
+  "SubTopic": "待機児童の解消"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "新規発電所建設プロジェクトは見直し、東電老朽火力発電所のリプレースを促進する。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00118",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "必要性と実現可能性疑問だが見解は。",
+  "SubTopic": "100万キロワット天然ガス発電所プロジェクト"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "新たな融資メニューや新製品開発プロジェクトを開始。今後も様々な施策を講じる。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00119",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "中小零細企業支援の取組は。",
+  "SubTopic": "産業振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "きめ細かい支援が課題。能力や個性を生かした働き方の実現へ施策を充実。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00120",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "若者や女性、高齢者が能力を十分発揮し働ける社会の仕組みづくりを。",
+  "SubTopic": "雇用就業対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "対応可能な客船埠頭を臨海副都心地域に新たに整備し万全のおもてなしを提供する。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00121",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "ＭＩＣＥ施設誘致や大型クルーズ客船受け入れ体制整備を。",
+  "SubTopic": "臨海地域の国際観光拠点化"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "総合的対策を25年10月目途にまとめ、学校や区市町村教育委員会と一体で解決図る。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00122",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "解決に全力で取り組むべき。",
+  "SubTopic": "いじめ問題"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "建設局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "調布保谷線の26年度全線開通、町田街道の拡幅等、積極的に整備に取り組む。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00123",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "多摩南北主要5路線を始めとした幹線道路整備の今後の取組は。",
+  "SubTopic": "多摩地域の道路整備"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "国際物流拠点の役割は極めて大。京浜三港連携を深め、都が責任持ち振興策を推進。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00124",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "重要性と国際競争力強化へ所見は。",
+  "SubTopic": "東京港"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "大会の成功には都民・国民の力の結集が必要。都議会と手を携えながら力を尽くす。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00125",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "招致獲得は日本が一丸となり取り組んだ結果。所見は。",
+  "SubTopic": "オリンピック・パラリンピック"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年度内に新たな多摩のビジョン行動戦略を策定し、全庁を挙げて強力に推進。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00126",
+  "MainTopic": "先を見据えた政策展開を示し<br>東京を「世界で一番の都市」に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "吉原修（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "具体的取組を強力に推進すべき。",
+  "SubTopic": "多摩振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "従来の発想を転換し、少子高齢化と人口減少社会の新たなモデルの構築が必要。一人ひとりが輝く世界一の都市の実現を目指す。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00127",
+  "MainTopic": "東京大会後をにらんだ取組進め<br>福祉先進都市東京を世界に発信",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "小磯善彦（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "東京大会の成功を目指す取組を、大会後の我が国の明るい展望に確実に繋げることが重要。新たな長期ビジョン構築に向けた知事の見解は。",
+  "SubTopic": "オリンピック・パラリンピック"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事",
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕福祉、雇用、住宅などの垣根を越え議論を深め、全庁の英知を結集し対策を推進。",
+    "〔2〕区市町村との情報共有や意見交換を行う連絡会議を活用し積極的に支援。〔3〕高齢化対策検討チームでの局横断的な検討を踏まえ、東京にふさわしい施策を推進。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00128",
+  "MainTopic": "東京大会後をにらんだ取組進め<br>福祉先進都市東京を世界に発信",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "小磯善彦（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕「構造的福祉」への基本認識は。〔2〕子育て支援新制度の実施主体となる区市町村への支援を。〔3〕生きがいづくりや就労支援も含めた高齢者施策を推進すべき。",
+  "SubTopic": "少子高齢化対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "施設のバリアフリー化や競技の普及啓発により選手に最高の舞台を用意する。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00129",
+  "MainTopic": "東京大会後をにらんだ取組進め<br>福祉先進都市東京を世界に発信",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "小磯善彦（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "本来オリンピックと同等の価値を持つ。その価値を今以上に高め、パラリンピアンが興奮と熱狂の中で輝く大会を。",
+  "SubTopic": "パラリンピック"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事",
+    "警視総監"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕都政の重要課題として取組を加速。",
+    "〔2〕採用拡大や上級幹部への登用等と併せ、育児を抱える職員への支援等を充実。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00130",
+  "MainTopic": "東京大会後をにらんだ取組進め<br>福祉先進都市東京を世界に発信",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "小磯善彦（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕成長の原動力として拡大を。〔2〕警視庁女性職員の積極的登用への見解は。",
+  "SubTopic": "女性の活躍"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事",
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕大会開催の希望を力として、被災地の復興加速とスポーツを通じた支援を推進。",
+    "〔2〕聖火リレーやサッカー予選に加え競技への招待やボランティア受入等による海外との交流で被災地復興を世界に伝える。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00131",
+  "MainTopic": "東京大会後をにらんだ取組進め<br>福祉先進都市東京を世界に発信",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "小磯善彦（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕オリンピック・パラリンピックを通じた支援への見解は。〔2〕被災地から競技会場への参加や世界の人々との交流を。",
+  "SubTopic": "被災地支援"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "港湾局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "今後の需要を見据えて、常時受け入れ可能な客船埠頭を臨海副都心地域に整備。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00132",
+  "MainTopic": "東京大会後をにらんだ取組進め<br>福祉先進都市東京を世界に発信",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "小磯善彦（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "大型客船誘致へ新たな埠頭整備を。",
+  "SubTopic": "東京港"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "活用へＪＡＸＡとの調整を進める。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00133",
+  "MainTopic": "東京大会後をにらんだ取組進め<br>福祉先進都市東京を世界に発信",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "小磯善彦（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "だいち2号の衛星画像の活用を。",
+  "SubTopic": "防災"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0,
+    0
+  ],
+  "AnswerLength": [
+    100,
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事",
+    "財務局長",
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕総力挙げるのは当たり前のこと。既に政府は閣僚会議で国内外の英知活用を確認。〔3〕事業の採算性等も見極める必要がある。",
+    "〔2〕開催準備を進める中でも財政の健全性に留意して都政の諸課題に取り組む。",
+    "〔4〕地元区等の話を聞き、自然環境と調和した計画となるよう検討を進める。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00134",
+  "MainTopic": "認可保育園増設に都有地活用を<br>若者のためブラック企業対策を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 150,
+  "QuestionSpeaker": "曽根はじめ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕汚染水対策に英知を結集して当たるよう政府に強く申し入れを。〔2〕大会開催を口実とした過大なインフラ整備等で福祉がおろそかにされてはならない。見解は。〔3〕立候補ファイルにない成田?羽田線をどう考えているか。〔4〕葛西臨海公園でのカヌー会場計画は全面的見直しを。",
+  "SubTopic": "オリンピック・パラリンピック"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "保険料は広域連合の判断で設定される。財源の1割を保険料で賄う原則。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00135",
+  "MainTopic": "認可保育園増設に都有地活用を<br>若者のためブラック企業対策を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "曽根はじめ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "26年度改定の値上げ幅と値上げ率はこれまでで最大。支援を。",
+  "SubTopic": "後期高齢者医療保険料"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    100,
+    50
+  ],
+  "AnswerSpeaker": [
+    "財務局長",
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕都有地の活用を有効な手段として考えていく。〔2〕都は広域自治体として、引き続き適切に区市町村を支援していく。",
+    "〔3〕現在、保育士有資格者を対象に、就労等の調査を実施している。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00136",
+  "MainTopic": "認可保育園増設に都有地活用を<br>若者のためブラック企業対策を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "曽根はじめ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕都有地の積極的活用を。〔2〕都有地貸与の負担軽減を。〔3〕保育士確保のため十分な賃金と継続して働ける環境を。",
+  "SubTopic": "認可保育園の増設"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "関係法令の遵守は企業の責務。都はセミナーや労働相談等で労使双方に働きかけ、若者が活躍できる雇用環境の実現に取り組む。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00137",
+  "MainTopic": "認可保育園増設に都有地活用を<br>若者のためブラック企業対策を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "曽根はじめ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "若者の使い捨てへの見解は。",
+  "SubTopic": "ブラック企業"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "都の制度融資では自己資金の有無にかかわらず将来性等勘案し適切に支援。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00138",
+  "MainTopic": "認可保育園増設に都有地活用を<br>若者のためブラック企業対策を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "曽根はじめ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "自己資金がなくても受けられるよう実態を改善すべき。",
+  "SubTopic": "中小企業の創業支援融資"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕ロンドン大会を上回る観客数目指し、心のバリアフリー社会実現に動きを加速。〔2〕標識等の多言語対応に加え、ボランティアのおもてなしを次世代へのレガシーとしたい。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00139",
+  "MainTopic": "2020年大会開催を契機とし<br>障害者にも優しい東京の実現を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "石毛しげる（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕一体的祭典とし、障害者に優しい東京を実現すべき。〔2〕おもてなしを体現するソフト面での取組は。",
+  "SubTopic": "オリンピック・パラリンピック"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "「世界一の都市」の実現を目指し、首都東京に山積する重要課題の解決へ道筋描く。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00140",
+  "MainTopic": "2020年大会開催を契機とし<br>障害者にも優しい東京の実現を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "石毛しげる（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "大会開催後まで見据えた東京の将来像をどのように描くのか。見解は。",
+  "SubTopic": "新長期ビジョン"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "新制度への位置付けを求める。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00141",
+  "MainTopic": "2020年大会開催を契機とし<br>障害者にも優しい東京の実現を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "石毛しげる（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都の認証保育所制度を国に認めさせる取組を更に強化すべき。",
+  "SubTopic": "子育て支援"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "法の全面施行に適切に対応し、障害者団体等の意見も聞き、施策を推進する。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00142",
+  "MainTopic": "2020年大会開催を契機とし<br>障害者にも優しい東京の実現を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "石毛しげる（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "障害当事者等からの要望や法を踏まえた障害者施策に取り組むべき。",
+  "SubTopic": "障害者総合支援法"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "安定的に黒字を確保し企業価値を高めるため、経営基盤の強化が重要。"
+  ],
+  "Date": "2013-09-25",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00143",
+  "MainTopic": "2020年大会開催を契機とし<br>障害者にも優しい東京の実現を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "石毛しげる（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "事業譲渡や株式売却等も含め早期撤退すべき。今後の方向性への見解は。",
+  "SubTopic": "新銀行東京"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "地域の公共交通機関として有効だが導入には様々な課題。関係区の動向等踏まえ技術的支援や情報提供を行い適切に対応。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00144",
+  "MainTopic": "晴海等の新交通システム検討を<br>通過物流等の都心交通の抑制を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "立石晴康（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "臨海部の交通環境の抜本的改善が必要。ＬＲＴ、ＢＲＴ等の交通システムへの基本的認識は。",
+  "SubTopic": "オリンピック・パラリンピック選手村"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事",
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕三環状道路を最大限活用するため一体的で利用しやすい新たな料金体系を構築。",
+    "〔2〕東京の基幹的インフラであること等を踏まえ国等と連携し再生を検討する。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00145",
+  "MainTopic": "晴海等の新交通システム検討を<br>通過物流等の都心交通の抑制を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "立石晴康（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕都心の交通抑制へ都心環状線より外側の環状道路の利用促進を図るべき。〔2〕老朽化する首都高速のあり方へ所見は。",
+  "SubTopic": "首都高速道路"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事本局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "ミクロネシア連邦と首都大学東京の間で学生交流を検討。必要な協力を行う。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00146",
+  "MainTopic": "都が率先して無電柱化の推進を<br>産業に活力もたらす創業支援を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "高木けい（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "日系人比率高く貴重な親日国である旧南洋諸島の国々との連携を推進すべき。",
+  "SubTopic": "都市外交"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "建設局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "都道について新たな整備目標示す。区市町村支援、国への財源拡充要求、電線事業者等との連携を強化し積極的に推進する。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00147",
+  "MainTopic": "都が率先して無電柱化の推進を<br>産業に活力もたらす創業支援を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "高木けい（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "明確な目標を定め、都が率先して取り組み、区市町村を先導して事業推進を。",
+  "SubTopic": "無電柱化"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "新たな資金供給の仕組み等、創業の各段階に応じた支援策を検討していく。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00148",
+  "MainTopic": "都が率先して無電柱化の推進を<br>産業に活力もたらす創業支援を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "高木けい（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "女性・若者・高齢者に狙いを定めた創業支援と育成強化に踏み出すべき。",
+  "SubTopic": "産業政策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "建設局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕早期の事業認可得て地元調整に入る。円滑な用地取得に向け丁寧な説明、ＰＲに努め、地元区と相談し事業の迅速化図る。〔2〕25年度から江戸川区内の一部区間の耐震補強工事に着手。左岸堤防は国と調査研究中。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00149",
+  "MainTopic": "篠崎公園の早期完成に取り組め<br>中川堤防の整備で安全確保図れ",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "上野和彦（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕都立篠崎公園の早期完成へ地元区とも協力し事業の加速図れ。〔2〕国と連携し中川堤防の嵩上げ等安全性向上への取組を。",
+  "SubTopic": "防災対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "異文化への理解を深める普及啓発等により、満足度の高い環境整備を検討。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00150",
+  "MainTopic": "篠崎公園の早期完成に取り組め<br>中川堤防の整備で安全確保図れ",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "上野和彦（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "今後増加が見込まれるイスラム圏からの旅行者に対する受け入れ環境整備を。",
+  "SubTopic": "観光振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "港湾局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "都の産業政策やインフラ整備との一体的取組、川崎港・横浜港との連携に加え、都が責任を持って経営に関わる体制を確保。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00151",
+  "MainTopic": "東京港発展へ責任持って運営を<br>島しょ医療の確保へ環境整備を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "三宅正彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "国際コンテナ戦略港湾に京浜港として選定された。今後の運営への取組は。",
+  "SubTopic": "東京港"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "価格差を補填する国制度を活用し補填金に上乗せする仕組みを早急に検討。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00152",
+  "MainTopic": "東京港発展へ責任持って運営を<br>島しょ医療の確保へ環境整備を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "三宅正彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "燃油高騰は地域の活力を失いかねない。早急な対応へ所見は。",
+  "SubTopic": "島しょ地域の水産業振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "病院経営本部長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "ＥＲ関連施設の改修やハイブリッド手術室の整備に向けて検討を行う。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00153",
+  "MainTopic": "東京港発展へ責任持って運営を<br>島しょ医療の確保へ環境整備を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "三宅正彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "超高齢社会が到来している島しょ地域へ高度専門医療の提供を。",
+  "SubTopic": "広尾病院の機能強化"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "都内のＮＩＣＵ病床数は多摩63床、区部231床、計294床。26年度までに320床を目標に、整備を進めている。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00154",
+  "MainTopic": "横田基地の整理縮小、返還を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "尾崎あや子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "北多摩西部医療圏だけでなく、そもそも多摩地域のＮＩＣＵは少なすぎる。多摩格差を埋める努力を。",
+  "SubTopic": "ＮＩＣＵの多摩格差"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "病院経営本部長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "小児総合医療センターとも密接に連携し、適切な医療を提供していく。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00155",
+  "MainTopic": "横田基地の整理縮小、返還を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "尾崎あや子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "切実な声に応え、産科やＮＩＣＵ、小児外科外来の設置を。",
+  "SubTopic": "多摩北部医療センター"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "軍民共用化は実質的な一部返還だ。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00156",
+  "MainTopic": "横田基地の整理縮小、返還を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "尾崎あや子（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "一刻も早い整理縮小、返還こそ、都民本意の活用を切り開く道だ。見解は。",
+  "SubTopic": "横田基地"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "今後も積極的に推進して国際貢献を果たし、東京の国際的プレゼンスを高めていく。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00157",
+  "MainTopic": "オリンピック・パラリンピック<br>開催決定を機に都市外交推進を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "島田幸成（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "知事の基本認識と今後の方針は。",
+  "SubTopic": "都市外交"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事本局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "横田への配備協議の事実がない旨を国に確認した。引き続き適切に対応する。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00158",
+  "MainTopic": "オリンピック・パラリンピック<br>開催決定を機に都市外交推進を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "島田幸成（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "オスプレイ配備は軍事力増強につながる政策であり認められない。見解は。",
+  "SubTopic": "横田基地"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "奨学金による医学生支援や病院の勤務環境改善等、医師確保の取組を推進。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00159",
+  "MainTopic": "オリンピック・パラリンピック<br>開催決定を機に都市外交推進を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "島田幸成（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "医師不足等への今後の対策は。",
+  "SubTopic": "周産期医療"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "自助、共助、公助の力を結集する取組を推進し、2020年、高度防災都市に進化した東京の姿を世界にアピールしたい。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00160",
+  "MainTopic": "高度防災都市の実現へ取組を<br>心の東京革命の確実な浸透を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大場やすのぶ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "オリンピック・パラリンピックを視野に、実現に向けた知事の決意は。",
+  "SubTopic": "高度防災都市"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "青少治安本部長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "行動プランの見直しや啓発事業にスポーツの精神を取り入れ活性化図る。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00161",
+  "MainTopic": "高度防災都市の実現へ取組を<br>心の東京革命の確実な浸透を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大場やすのぶ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "提唱から10年以上経過した今、再度理念の重要性の認識と確実な浸透を。",
+  "SubTopic": "心の東京革命"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "生活文化局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "指導や立入調査権の機動的な行使とともに、処分権限の委任を国に求める。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00162",
+  "MainTopic": "高度防災都市の実現へ取組を<br>心の東京革命の確実な浸透を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大場やすのぶ（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "法の隙間を突く悪質事業者に対し、都も取り締まりを強化すべき。",
+  "SubTopic": "消費者被害の防止"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "建設局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "計画面積の約61％を開園済み。今後は、未開園の中藤公園、観音寺森緑地を含む4公園で園路や広場等の整備を進める。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00163",
+  "MainTopic": "狭山丘陵の都立公園整備促進を<br>多摩の交通インフラ整備推進を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "北久保眞道（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "現状と取組は。",
+  "SubTopic": "狭山丘陵の都立公園整備"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    100,
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監",
+    "建設局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔2〕多摩都市モノレール株式会社の経営状況等を踏まえ、事業採算性等を見極めながら検討するなど課題解決に知恵を絞る。",
+    "〔1〕両事業とも測量・設計を進め、25年度中に事業着手予定。積極的に取り組む。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00164",
+  "MainTopic": "狭山丘陵の都立公園整備促進を<br>多摩の交通インフラ整備推進を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "北久保眞道（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕西武新宿線東村山駅周辺の連続立体交差事業と東村山3・3・8号線事業化への取組は。〔2〕多摩モノレールの上北台駅?箱根ヶ崎間延伸への見解は。",
+  "SubTopic": "多摩の交通インフラ整備"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長",
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕外国人教員のシンポジスト参加等報告会を充実し、成果を全公立学校に周知。",
+    "〔2〕若者対象のプログラムを今後組織委員会等の関係者と検討し積極的に支援。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00165",
+  "MainTopic": "「世界教育者サミット」開催を<br>ユースキャンプには大きな意義",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "大松あきら（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕現場レベルの教育者の交流として海外派遣研修報告会の一層の充実を。〔2〕オリンピック・パラリンピックのユースキャンプに多くの国々の青少年の参加を支援すべき。",
+  "SubTopic": "教育"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年改定の都保健医療計画で重点課題とした。区市町村の取組を一層支援。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00166",
+  "MainTopic": "「世界教育者サミット」開催を<br>ユースキャンプには大きな意義",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "大松あきら（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "地域包括ケアシステム実現に向けた、今後の在宅療養推進の取組へ所見は。",
+  "SubTopic": "高齢化対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "建設局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "切迫する首都直下地震等でも東西交通の分断防ぐ命の道。2020年早期開通へスピード感持った推進を国等に働きかける。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00167",
+  "MainTopic": "としまえんを賑わいある公園に<br>西武新宿線の連続立体交差化を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "柴崎幹男（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "オリンピック・パラリンピックまでの完成に向けた都の取組は。",
+  "SubTopic": "外環道の整備促進"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "建設局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "地元区や都民の声広く聞き、安らぎとレクリエーションの拠点を目指し検討。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00168",
+  "MainTopic": "としまえんを賑わいある公園に<br>西武新宿線の連続立体交差化を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "柴崎幹男（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "としまえんを含む練馬城址公園整備について、地元との協議の進め方は。",
+  "SubTopic": "防災公園"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "建設局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "調査実施し事業化の可能性を検討中。今後とも、地元の動向勘案し検討進める。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00169",
+  "MainTopic": "としまえんを賑わいある公園に<br>西武新宿線の連続立体交差化を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "柴崎幹男（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "地元の期待高まっている。検討状況は。",
+  "SubTopic": "西武新宿線井荻?東伏見間の連続立体交差化"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "消防総監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "5部隊目のハイパーレスキュー隊を発隊し、特別救助隊や救急隊も増強配置。今後とも消防部隊の効果的運用で万全を期す。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00170",
+  "MainTopic": "多摩地域の消防体制を強化せよ<br>京王線柴崎駅付近の踏切対策を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "栗山欽行（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "首都直下型地震発生時における多摩地域の消防体制強化すべき。見解は。",
+  "SubTopic": "危機管理対応"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "地元自治体が主体となって取り組むべき課題。都は必要な技術的支援を行う。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00171",
+  "MainTopic": "多摩地域の消防体制を強化せよ<br>京王線柴崎駅付近の踏切対策を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "栗山欽行（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "暫定的には立体横断施設の整備等も有効な手段。見解は。",
+  "SubTopic": "京王線柴崎駅付近の踏切対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "大学等との連携促進し大手企業との連携強化に向け効果的な仕組みを検討。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00172",
+  "MainTopic": "多摩地域の消防体制を強化せよ<br>京王線柴崎駅付近の踏切対策を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "栗山欽行（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "中小企業が大手や研究機関と連携する環境の整備等産業基盤の強化を。",
+  "SubTopic": "多摩の産業振興"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監",
+    "交通局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕施設や開発事業者が整備する。",
+    "〔2〕25年度中に全106駅でワンルートを確保。今後も乗換駅等で整備を推進。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00173",
+  "MainTopic": "観光地のバス駐車場整備推進を<br>人に優しい都営地下鉄の実現を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "中山ひろゆき（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕整備の基本的考え方は。〔2〕都営地下鉄のエレベーター整備が更に必要。",
+  "SubTopic": "観光バス駐車場"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "区市町村に財政負担を要請し、25年度新たに8区市町村で助成を拡充。残る区市町村にも引き続き制度拡充働きかける。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00174",
+  "MainTopic": "観光地のバス駐車場整備推進を<br>人に優しい都営地下鉄の実現を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "中山ひろゆき（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "特定沿道建築物の耐震化100％に向け区市町村の助成制度の対応状況は。",
+  "SubTopic": "耐震化助成"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "一時預かりやショートステイ等サービス拡充を図る区市町村の取組を支援。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00175",
+  "MainTopic": "大山駅周辺のまちづくり検討を<br>地域資源を活用した観光振興を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "河野ゆうき（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "在宅で子育てする家庭も対象とする多様な子育て支援サービスの拡充を。",
+  "SubTopic": "待機児対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "地元区と連携し商店街を中心とした勉強会を支援。説明会や意向調査等で地元の意見を丁寧に聞きながら早期事業化図る。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00176",
+  "MainTopic": "大山駅周辺のまちづくり検討を<br>地域資源を活用した観光振興を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "河野ゆうき（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "補助26号線の整備では地元との合意形成を図り検討を。",
+  "SubTopic": "東上線大山駅周辺のまちづくり"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "地域の自由な発想と創意工夫を引き出す方策を検討し、多様な魅力を創出。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00177",
+  "MainTopic": "大山駅周辺のまちづくり検討を<br>地域資源を活用した観光振興を",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "河野ゆうき（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "地域の資源を発掘、活用して観光客を取り込み、地域経済の活性化推進を。",
+  "SubTopic": "観光振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "バリアフリー化の徹底、レガシーと最先端技術の活用等今後の大会モデルとしたい。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00178",
+  "MainTopic": "2020年大会のあるべき姿は<br>多摩を新エネルギー先進地域に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "両角みのる（みんな）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "2020年大会はどのような大会であるべきか見解を。",
+  "SubTopic": "オリンピック・パラリンピック"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "全団体について基本的に所管局が適切に関与。監理団体事業は監査等で検証。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00179",
+  "MainTopic": "2020年大会のあるべき姿は<br>多摩を新エネルギー先進地域に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "両角みのる（みんな）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "全体像把握しあり方整理すべき。",
+  "SubTopic": "外郭団体"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "地域の実情や課題を把握し、新たな多摩のビジョンの行動戦略の内容を検討。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00180",
+  "MainTopic": "2020年大会のあるべき姿は<br>多摩を新エネルギー先進地域に",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "両角みのる（みんな）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "各地域の特性生かし、早期具現化の推進を。",
+  "SubTopic": "多摩の自立分散型エネルギーのまちづくり"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    100,
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事",
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕2020年の東京への外国人旅行者数を1500万人にすべくハード・ソフト両面にわたる取組で東京のプレゼンスを高める。",
+    "〔2〕参加型寄附のあり方を検討。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00181",
+  "MainTopic": "2020年大会開催を契機に<br>発展を続ける国際都市東京へ",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "田中朝子（みんなの党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕国際性を高め、世界中から人々が集う都市にすべき。〔2〕都民・国民の参加型の大会にすることが成功への鍵。参加意識を高める寄附への考えは。",
+  "SubTopic": "オリンピック・パラリンピック"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "副反応に関する情報提供や専門医療の提供等体制整備を国に提案要求する。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00182",
+  "MainTopic": "ＨＰＶワクチン副反応被害の<br>検証と被害者支援を国に求めよ",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "小松久子（ネット）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "副反応被害の実態を把握し、被害者支援体制の整備を国に求めるべき。",
+  "SubTopic": "ＨＰＶワクチン"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "障害児通所支援サービス提供は国の省令改正に伴うもの。改正内容は区市町村へ情報提供し、相談等あれば適切に対応。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00183",
+  "MainTopic": "ＨＰＶワクチン副反応被害の<br>検証と被害者支援を国に求めよ",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "小松久子（ネット）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "条例改正で高齢者施設に障害児が通えるようになる。積極的に情報提供を。",
+  "SubTopic": "障害者施策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "工法等十分検討し効率的に整備。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00184",
+  "MainTopic": "2020年大会の施設整備は<br>創意工夫重ね効率的に進めよ",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "やながせ裕文（日本維新）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "基金を有効に活用し、効率的・着実な整備推進を。",
+  "SubTopic": "オリンピック・パラリンピック施設"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "老朽火力発電所の迅速なリプレース等。"
+  ],
+  "Date": "2013-09-26",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00185",
+  "MainTopic": "2020年大会の施設整備は<br>創意工夫重ね効率的に進めよ",
+  "Meeting": "平成25年第3回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "やながせ裕文（日本維新）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "エネルギーの一大消費地である都の取組は。",
+  "SubTopic": "原子力に依存しない電力供給体制の確立"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕町の要請に基づく応急仮設住宅の整備等に加え、プロジェクトチームで25年内を目途に総合的対策を取りまとめる。〔2〕今回課題となった区市町村との情報連絡体制の強化や島しょ部の避難体制の再構築等を図る。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00186",
+  "MainTopic": "大島の復旧・復興へ総力挙げよ<br>不合理な税制改正阻止へ取組を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "宇田川聡史（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕都の総力挙げた取組を。〔2〕危機管理体制の見直しへ見解は。",
+  "SubTopic": "大島の復旧・復興対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事本局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "高度成長期に形成されたシステム見直す時期。計画的な更新や機能強化により成熟社会の新たなモデルとなる整備を展開。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00187",
+  "MainTopic": "大島の復旧・復興へ総力挙げよ<br>不合理な税制改正阻止へ取組を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "宇田川聡史（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "将来を見据えた取組を。",
+  "SubTopic": "都市インフラ整備"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "財務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "反論書の発表や4都府県での緊急共同要請等で都の主張の正当性を訴えている。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00188",
+  "MainTopic": "大島の復旧・復興へ総力挙げよ<br>不合理な税制改正阻止へ取組を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "宇田川聡史（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "不合理な税制改正阻止へ取組は。",
+  "SubTopic": "法人事業税の暫定措置存続と法人住民税の一部国税化"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕被災地での復興への取組が本格化しつつあり、引き続き全庁挙げて支援する。〔2〕専門家や自治体等と検討進め広域避難体制の基本的な枠組みを25年度内につくり上げる。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00189",
+  "MainTopic": "大島の復旧・復興へ総力挙げよ<br>不合理な税制改正阻止へ取組を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "宇田川聡史（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕東日本大震災の被災自治体のニーズを踏まえ復興を引き続き後押しすべき。〔2〕災害時の広域的な避難体制構築への取組は。",
+  "SubTopic": "防災対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "環境局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕エネルギー消費量を2020年までに2000年対比20％削減する新たな目標設定し対策を着実に展開。〔2〕中小事業所の特性に応じた対策強化に向け具体的な事業スキームの検討急ぐ。〔3〕閉鎖性水域のため水質は横ばい。総合的・重層的取組で再生目指す。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00190",
+  "MainTopic": "大島の復旧・復興へ総力挙げよ<br>不合理な税制改正阻止へ取組を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "宇田川聡史（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕一層力強い省エネ対策、気候変動対策を講じるべき。〔2〕中小事業所の省エネ、創エネ対策へ具体的な手立ての構築を。〔3〕東京湾の水質改善への取組は。",
+  "SubTopic": "環境・エネルギー対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事本局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "26年度末で患者の新規認定を終了。以降は認定患者に都が担うべき3分の1相当の範囲で医療費を助成。患者への配慮として27年度から3年間は経過措置で全額助成。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00191",
+  "MainTopic": "大島の復旧・復興へ総力挙げよ<br>不合理な税制改正阻止へ取組を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "宇田川聡史（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "患者への影響に配慮した見直しを。",
+  "SubTopic": "東京大気汚染訴訟の和解に基づく医療費助成制度"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕構造的福祉プロジェクトチームで新たな施策を検討。民間・地域・行政の力を最大限活用し積極的に展開。〔2〕都市型保育サービスの拡充や在宅子育て家庭への支援充実等の施策を展開。〔3〕高齢化進展に伴い介護需要が増大するため新たな支援策を検討。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00192",
+  "MainTopic": "大島の復旧・復興へ総力挙げよ<br>不合理な税制改正阻止へ取組を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "宇田川聡史（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕今後の展開は。〔2〕27年度の新制度に向け行動計画の成果を踏まえた子供家庭施策の方向性は。〔3〕介護基盤整備と地域包括支援センターの機能強化を。",
+  "SubTopic": "福祉・保健・医療施策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕小規模事業者の資金負担力に配慮した助成制度や利用者の負担軽減を考慮した融資の創設を検討。〔2〕産業空洞化の進行に歯止めをかけるため、区市町村と連携した支援策を検討。〔3〕効率的な森林整備手法や技術者の育成、多摩産材利用拡大を盛り込む。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00193",
+  "MainTopic": "大島の復旧・復興へ総力挙げよ<br>不合理な税制改正阻止へ取組を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "宇田川聡史（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕中小零細企業の設備投資活性化を。〔2〕中小企業の集積維持へ負担軽減を。〔3〕森づくり推進プラン改定で林業支援強化を。",
+  "SubTopic": "産業施策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "障害者スポーツ振興計画に基づき地域でスポーツを行う場の充実や人材育成、競技レベル向上に向けた分析等に取り組む。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00194",
+  "MainTopic": "大島の復旧・復興へ総力挙げよ<br>不合理な税制改正阻止へ取組を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "宇田川聡史（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "更なる振興への取組は。",
+  "SubTopic": "障害者スポーツ"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "被災者や中小企業への都独自の支援や職員派遣等に加え総合的対策をまとめる。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00195",
+  "MainTopic": "大島町復興に向け全力で支援を<br>都内経済支える中小企業支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "長橋桂一（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "全力で復興を支援すべき。",
+  "SubTopic": "大島土石流災害"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長",
+    "産業労働局長",
+    "中央卸売市場長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕避難者の意向を詳細に把握し協議の場を設ける等地元と連携し支援策を検討。",
+    "〔2〕県の観光の状況踏まえ検討。",
+    "〔3〕福島県産品の安全への理解促進へ、消費者が直接見聞する機会を検討。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00196",
+  "MainTopic": "大島町復興に向け全力で支援を<br>都内経済支える中小企業支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "長橋桂一（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕避難者の現状を把握し被災自治体と連携した支援を。〔2〕福島への被災地応援ツアーを。〔3〕福島の水産物を対象に、消費者団体の研修会の実施を。",
+  "SubTopic": "東日本大震災の被災地支援"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "生活文化局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "27年秋にヨーロッパを巡る創立50周年記念公演を予定。楽団員の質・量の充実等で国際的に評価される演奏活動を展開。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00197",
+  "MainTopic": "大島町復興に向け全力で支援を<br>都内経済支える中小企業支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "長橋桂一（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "オリンピック開催を視野に、多彩な活動を展開し国内外にアピールを。",
+  "SubTopic": "東京都交響楽団"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    150
+  ],
+  "AnswerSpeaker": [
+    "知事本局長",
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕構造的福祉ＰＴに若年者支援部会を設置。意識やニーズ把握し施策に反映。",
+    "〔2〕ショートステイやデイケア等に取り組む区市町村を包括補助事業で支援。産前からの支援も含め新たな支援策を検討。〔3〕現在の集計で約半数が未就労。今後、調査結果を分析し関係機関と連携を強化して検討。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00198",
+  "MainTopic": "大島町復興に向け全力で支援を<br>都内経済支える中小企業支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 150,
+  "QuestionSpeaker": "長橋桂一（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕若年者支援でも子育てと同様有識者等による会議の立ち上げを。〔2〕核家族化が進行する東京で産後ケアを強力に推進すべき。〔3〕25年度実施の3万人の保育士有資格者の実態把握と人材確保策強化への見解は。",
+  "SubTopic": "少子化対策"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長",
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕土地を有効活用する手法の一つ。説明会等で紹介し整備を積極的に支援。",
+    "〔2〕中小企業や従業員を対象に会社の対応状況等を把握する実態調査を検討。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00199",
+  "MainTopic": "大島町復興に向け全力で支援を<br>都内経済支える中小企業支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "長橋桂一（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕公有地利用に加え同一敷地内に異なる高齢者施設を建設する複合型施設整備を行う区市町村等に支援を。〔2〕介護と仕事の両立へ、企業等の実態調査して施策づくりを。",
+  "SubTopic": "高齢者"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "成長産業への参入等を目指す中小企業の設備投資に対する助成制度を検討。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00200",
+  "MainTopic": "大島町復興に向け全力で支援を<br>都内経済支える中小企業支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "長橋桂一（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "設備経費等の負担軽減策を。",
+  "SubTopic": "中小企業支援"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕大金を見てびっくりし、自宅に置けないため、すぐに返却する予定で妻の貸金庫に預けた。〔2〕当時そこまで考える心理的余裕がなかった。〔3〕徳洲会の都内での事業計画や、病院を経営しているという認識はなかった。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00201",
+  "MainTopic": "資金提供問題への知事の認識は<br>消費税増税は中止を申し入れよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 150,
+  "QuestionSpeaker": "河野ゆりえ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕なぜ銀行に預けなかったのか。貸金庫はいつどのような目的で借りたのか。〔2〕無利子・無担保・返済期限なしのお金の授受は贈収賄を疑われると考えなかったのか。〔3〕徳洲会が都の利害関係者か調べもしないで5千万円受け取ったのか。",
+  "SubTopic": "徳洲会からの資金提供"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事",
+    "交通局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕持続可能な社会保障制度構築のために避けて通れない。中止申し入れる考えない。",
+    "〔2〕国の方針踏まえ運賃に転嫁する。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00202",
+  "MainTopic": "資金提供問題への知事の認識は<br>消費税増税は中止を申し入れよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "河野ゆりえ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕国に実施中止を申し入れるべき。〔2〕都営交通運賃等は都民生活と都内経済に大きな影響及ぼす。値上げしない措置を。",
+  "SubTopic": "消費税増税"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "財務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "福祉インフラ整備促進に向け、区市町村と連携図り有効活用を引き続き進める。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00203",
+  "MainTopic": "資金提供問題への知事の認識は<br>消費税増税は中止を申し入れよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "河野ゆりえ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "介護サービス整備や少子高齢社会に対応した活用をどう具体化するのか。",
+  "SubTopic": "都有地活用"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年度から国に先駆け中1で実施。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00204",
+  "MainTopic": "資金提供問題への知事の認識は<br>消費税増税は中止を申し入れよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "河野ゆりえ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "他の学年への拡大を図るべき。",
+  "SubTopic": "少人数学級"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "今後とも住宅セーフティネットの中核機能を的確に果たせるよう取り組む。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00205",
+  "MainTopic": "資金提供問題への知事の認識は<br>消費税増税は中止を申し入れよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "河野ゆりえ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "低所得者の住宅難解決へ空きマンション等の借り上げで増設すべき。",
+  "SubTopic": "都営住宅の増設"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "国の制度の対象とならない半壊世帯に最高200万円まで支援金を支給。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00206",
+  "MainTopic": "資金提供問題への知事の認識は<br>消費税増税は中止を申し入れよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "河野ゆりえ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都独自の支援を充実し、被災状況に見合った細やかな支援を。",
+  "SubTopic": "大島町の被災者支援"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "近年の浸水被害状況など踏まえ、26年6月を目途に新たな基本方針を策定する。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00207",
+  "MainTopic": "資金提供問題への知事の認識は<br>消費税増税は中止を申し入れよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "河野ゆりえ（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都内の局所的豪雨への対応は。",
+  "SubTopic": "豪雨対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "50年先の推計では人口が2割減少し、高齢者割合は倍増。構造的福祉の取組を推進。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00208",
+  "MainTopic": "少子高齢社会を見据えて<br>オリンピック後の未来を描け",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "尾崎大介（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "少子高齢社会を見据え、オリンピック開催後の未来をどう描くのか。",
+  "SubTopic": "東京のあるべき姿"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "国の着実な整備を求めていく。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00209",
+  "MainTopic": "少子高齢社会を見据えて<br>オリンピック後の未来を描け",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "尾崎大介（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "国が建設し、景観を損ねず大会後の負担が課題とならないよう協議を。",
+  "SubTopic": "新国立競技場"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "今後とも不断の経営改革に取り組む。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00210",
+  "MainTopic": "少子高齢社会を見据えて<br>オリンピック後の未来を描け",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "尾崎大介（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "消費税引き上げ分を転嫁せず都民負担を増やさない企業努力を。",
+  "SubTopic": "都営交通の運賃改定"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "作成中のモデルプランも活用し、区市町村の未然防止に向けた取組を支援。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00211",
+  "MainTopic": "少子高齢社会を見据えて<br>オリンピック後の未来を描け",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "尾崎大介（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "防止対策や予防に向け、子育て不安を抱える家庭への更なる支援へ取組は。",
+  "SubTopic": "児童虐待"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "日本経済の再生と軌を一に進めるべき。様々な雇用対策講じ東京の持続的発展を実現。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00212",
+  "MainTopic": "少子高齢社会を見据えて<br>オリンピック後の未来を描け",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "尾崎大介（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "経営者代表等で進める国の議論に懸念。雇用安定と処遇改善へ知事の見解は。",
+  "SubTopic": "雇用対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "都政は一日も遅れてはならないことが山積。都議会と両輪となり仕事に邁進したい。"
+  ],
+  "Date": "2013-12-05",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00213",
+  "MainTopic": "少子高齢社会を見据えて<br>オリンピック後の未来を描け",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "尾崎大介（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "説明責任を十分果たすとともに自らの責任の取り方を明らかにすべき。",
+  "SubTopic": "知事の資金問題"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "知事本局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕これまでの信頼関係を礎に相互理解を深め、知恵や経験を積極的に交換し交流を推進。〔2〕文化やスポーツの分野に加え新規共同事業を通じ、中小企業の販路開拓やアジア発の新産業創出を目指す。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00214",
+  "MainTopic": "首都東京で新たな都市外交を<br>子供たちにオリンピック学習を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "鈴木隆道（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕姉妹友好都市を都市外交の舞台として活用すべき。〔2〕今後のアジア大都市ネットワーク21に新たな展開を期待。所見は。",
+  "SubTopic": "都市外交"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "学校での教育の推進が重要。関係機関と連携した教材の開発や参加国との国際交流を図る一校一国運動等に全力で取り組む。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00215",
+  "MainTopic": "首都東京で新たな都市外交を<br>子供たちにオリンピック学習を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "鈴木隆道（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "7年後の大会を開催する東京で、オリンピック学習の充実へ具体的な取組を。",
+  "SubTopic": "教育施策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕今後とも調査結果を活用し、都民の防災意識の高揚に役立てるとともに木密地域不燃化10年プロジェクト等、防災都市づくりを効率的・効果的に進める。〔2〕区から要望があった場合は国と連携して支援する。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00216",
+  "MainTopic": "木密地域に効果的な防災対策を<br>地域で都立学校体育施設活用を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "崎山知尚（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕地域危険度測定調査の結果を防災都市づくりに活用すべき。〔2〕深井戸は消火用水や非常用飲料水となるため独自の整備検討を始めた区もある。都は区の整備支援を。",
+  "SubTopic": "防災対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "施設開放日の拡大、利便性に配慮した施設整備、周知促進等により更に活用図る。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00217",
+  "MainTopic": "木密地域に効果的な防災対策を<br>地域で都立学校体育施設活用を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "崎山知尚（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "地域の人々がスポーツに親しむ機会拡大へ都立学校の体育施設の活用を。",
+  "SubTopic": "スポーツ振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "必要な情報を検索できるシステムを25年度中に構築し、26年度に試験運用。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00218",
+  "MainTopic": "転院支援情報システムの導入を<br>都指定有形文化財の所在確認を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "遠藤守（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "患者家族の負担を軽減する情報システムの概要と導入へのスケジュールは。",
+  "SubTopic": "転院支援"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "区市町村と連携し所有者の協力を得て早急に現状確認。定期的な調査の充実図る。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00219",
+  "MainTopic": "転院支援情報システムの導入を<br>都指定有形文化財の所在確認を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "遠藤守（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "美術工芸品の所在の速やかな確認と一定期間ごとの調査が必要。見解は。",
+  "SubTopic": "都指定文化財"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "下水道局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "耐震化は31年度、止水壁設置工事は28年度に完了させ、震災時の機能を確保。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00220",
+  "MainTopic": "転院支援情報システムの導入を<br>都指定有形文化財の所在確認を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "遠藤守（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "区の広域避難場所で重要な施設。耐震化と津波への耐水化を。",
+  "SubTopic": "森ヶ崎水再生センター"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    150
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕都内小中学生は、平均値で全教科上位グループ。今後は基礎学力習得へ効果的な習熟度別指導を全都的に展開。〔2〕区市町村教育委員会が必要と認める場合は土曜授業を行えることとした国の改正を周知し、区市町村教育委員会の主体的な取組の推進を支援。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00221",
+  "MainTopic": "土曜授業を拡充し学力向上を<br>自然公園の利便性を向上せよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "近藤充（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕学力向上施策の成果と今後の取組は。〔2〕土曜授業を一層拡充すべき。見解は。",
+  "SubTopic": "教育"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "環境局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "自然公園では誰もが使いやすい施設の整備が重要な課題。多目的トイレの整備や登山道の案内標識等の外国語表記を進める。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00222",
+  "MainTopic": "土曜授業を拡充し学力向上を<br>自然公園の利便性を向上せよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "近藤充（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "外国人観光客や高齢者に対する快適性や利便性への認識と今後の取組は。",
+  "SubTopic": "自然公園施設"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "東電病院の売却は話題になっていない。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00223",
+  "MainTopic": "東電病院売却の全貌を明らかに<br>住民の理解を得た道路整備を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "白石たみお（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "売却が決まった約1カ月後に、知事は徳田虎雄氏と面会を行っている。東電病院問題について話題にならなかったのか。",
+  "SubTopic": "東電病院"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "建設局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "事業化に先立つ説明会では幅広い質問等に答えている。今後もきめ細かく対応。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00224",
+  "MainTopic": "東電病院売却の全貌を明らかに<br>住民の理解を得た道路整備を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "白石たみお（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "住民説明会で疑問や反対の声が噴出しているのに、測量を始めている。悲痛な住民の声をどう受けとめるのか。",
+  "SubTopic": "特定整備路線計画"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "木密地域では地元住民の理解と協力が重要。今後とも区と連携し事業を推進。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00225",
+  "MainTopic": "東電病院売却の全貌を明らかに<br>住民の理解を得た道路整備を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "白石たみお（日本共産党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "延焼遮断帯を押しつけるのではなく、地域との協議等の積み重ねを。",
+  "SubTopic": "防災まちづくり"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "環境局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "地域特性を生かし推進に取り組む。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00226",
+  "MainTopic": "情報化社会を生き抜く子供への<br>メディアリテラシー教育を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山下太郎（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "多摩地域がスマートエネルギー都市のモデルとなるような具体的な取組を。",
+  "SubTopic": "環境施策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "病院経営本部長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "地域の中核病院として小児総合医療センター等と連携し更なる充実図る。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00227",
+  "MainTopic": "情報化社会を生き抜く子供への<br>メディアリテラシー教育を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山下太郎（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "ＮＩＣＵ退院後の在宅移行支援の推進や医師の確保、育成を。",
+  "SubTopic": "多摩北部医療センター"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "教員向け資料に取り入れる等メディアリテラシーについての指導を支援していく。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00228",
+  "MainTopic": "情報化社会を生き抜く子供への<br>メディアリテラシー教育を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山下太郎（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "本格的な指導を。",
+  "SubTopic": "メディアリテラシー教育"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "スポーツの特性や効用等をイベントや各種情報媒体で紹介する等、区市町村等と連携し、きめ細かい情報発信に努める。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00229",
+  "MainTopic": "高齢者のスポーツ振興推進を<br>都は不妊治療に独自の支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "和泉武彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "健康状態に合ったスポーツの紹介等、意欲喚起する情報発信を。",
+  "SubTopic": "高齢者のスポーツ振興"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "支援の拡充を検討していく。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00230",
+  "MainTopic": "高齢者のスポーツ振興推進を<br>都は不妊治療に独自の支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "和泉武彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "国は28年度から助成を見直す方針。都は独自に支援の拡充を行うべき。",
+  "SubTopic": "特定不妊治療"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "生活文化局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "新たに経営トップ層を対象とした普及啓発や産業・地域・教育等の団体と協働した取組を展開し一層の機運醸成を図る。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00231",
+  "MainTopic": "高齢者のスポーツ振興推進を<br>都は不妊治療に独自の支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "和泉武彦（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "あらゆる場での登用や継続就業への取組促進が不可欠。機運の醸成を。",
+  "SubTopic": "女性の活躍推進"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年度に市町村に対する簡易救助資器材や無線機の配備等への補助を開始した。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00232",
+  "MainTopic": "市町村消防団の資器材の充実を<br>障害者の方々の職場定着支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "高椙健一（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "多摩や島しょの消防団は、区部と比べて未配備の資器材が多く、山間部等地域に多様性もある。充実に向けた支援への見解は。",
+  "SubTopic": "防災"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "環境局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年12月中旬に島外への船舶輸送開始。区市町村等と協力し復旧・復興を支援。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00233",
+  "MainTopic": "市町村消防団の資器材の充実を<br>障害者の方々の職場定着支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "高椙健一（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "東日本大震災の経験を生かし、大島町の処理をどのように支援するのか。",
+  "SubTopic": "災害廃棄物"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "東京ジョブコーチの増員やサポート事例の普及啓発等、支援策の充実検討。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00234",
+  "MainTopic": "市町村消防団の資器材の充実を<br>障害者の方々の職場定着支援を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "高椙健一（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "雇用される障害者が増える中、企業や就労支援機関の取組へ支援は。",
+  "SubTopic": "障害者の職場定着"
+},
+{
+  "AnswerEndingLine": [
+    0,
+    0
+  ],
+  "AnswerLength": [
+    50,
+    100
+  ],
+  "AnswerSpeaker": [
+    "港湾局長",
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0,
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕出会いの場を創出する取組として若い男女が対象のイベント開催等工夫する。",
+    "〔2〕インターネット上の広告等新たな普及啓発方法の検討や電話相談等の体制充実を図る。〔3〕説明会開催や先進的取組の事例集作成等妊娠期から産後まで切れ目のない支援の充実に向けて区市町村の取組を支援。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00235",
+  "MainTopic": "子供を大切にする東京へ<br>結婚・妊娠・出産時の支援を充実せよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 150,
+  "QuestionSpeaker": "栗林のり子（公明党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕ボランティア活動を通じた婚活支援に海の森の活用を。〔2〕妊婦健診受診の普及啓発や妊婦への相談支援の充実を。〔3〕都内全域に産後ケアセンターを設置しやすい環境づくりへ制度周知や区市町村への支援を。",
+  "SubTopic": "少子化対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "水道局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "現状把握し施設整備や財政上の調整等諸条件が整理された段階で市と協議行う。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00236",
+  "MainTopic": "武蔵野市水道事業に支援協力を<br>ジュニア選手を発掘・育成せよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "島崎義司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都営一元化推進への要望がある。一元化希望した場合の手続きは。",
+  "SubTopic": "武蔵野市の水道事業"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "ジュニア育成地域推進事業等東京国体で培ったレガシーを生かし地区体育協会等と協力して競技力向上施策を強力に推進。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00237",
+  "MainTopic": "武蔵野市水道事業に支援協力を<br>ジュニア選手を発掘・育成せよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "島崎義司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "2020年大会に向けますます重要な取組となる。見解は。",
+  "SubTopic": "ジュニア選手の発掘・育成"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "改善状況を定期報告や施設訪問で確認し指導行う。市と連携し厳正に対処。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00238",
+  "MainTopic": "武蔵野市水道事業に支援協力を<br>ジュニア選手を発掘・育成せよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "島崎義司（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "虐待防止の実効性を確保するための取組は。",
+  "SubTopic": "西東京市の障害者施設における虐待事案"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "強固な交通ネットワークの構築や経済活力を高める拠点の形成等、更に成熟を遂げた都市へと進化させるべく取り組む。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00239",
+  "MainTopic": "2020年大会開催決定を機に<br>成熟都市東京を更に発展させよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山内晃（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "オリンピック・パラリンピックを機に、今後の都市づくりをどう進めるか。",
+  "SubTopic": "都市づくり"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "下水道局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "第二立会川幹線下流部約1キロメートル区間を、30年度末完成を目標に整備。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00240",
+  "MainTopic": "2020年大会開催決定を機に<br>成熟都市東京を更に発展させよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山内晃（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "25年7月の局地的豪雨で浸水が発生した品川区立会川流域での対策強化を。",
+  "SubTopic": "浸水対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "国際的連携組織への加盟や海外ネットワークの構築等、体制の強化を検討。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00241",
+  "MainTopic": "2020年大会開催決定を機に<br>成熟都市東京を更に発展させよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山内晃（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "経済波及効果等大きい。効果的に進めるために活動基盤の強化が必要。",
+  "SubTopic": "ＭＩＣＥ誘致"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "迅速な応急復旧活動には民間の力の活用が不可欠。今後とも連携体制を確保。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00242",
+  "MainTopic": "民間団体と連携した災害対応を<br>障害者スポーツの認知度向上を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "今村るか（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "民間と連携図る努力必要。",
+  "SubTopic": "災害時応援協定"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "スポ振局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "〔1〕重要な大会と認識。組織委員会等と連携図り検討。〔2〕デフリンピック、スペシャルオリンピックス競技会の後援等実施。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00243",
+  "MainTopic": "民間団体と連携した災害対応を<br>障害者スポーツの認知度向上を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "今村るか（民主党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "〔1〕2019年に東京で開催されるラグビーワールドカップに積極的に対応すべき。〔2〕主催団体と連携し、障害者スポーツ全体の認知度向上を図るべき。",
+  "SubTopic": "国際スポーツ大会"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "教育長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "国際社会で活躍するため、卒業後に海外大学への進学を可能とする環境を整備。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00244",
+  "MainTopic": "隅田川に新たな観光スポットを<br>中小企業支援へ緊急対策継続を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "川松真一朗（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都立高校での導入目的は。",
+  "SubTopic": "国際バカロレア"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "建設局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "テラスの連続化を進め、恒常的な賑わい創出のための拠点づくりの検討深める。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00245",
+  "MainTopic": "隅田川に新たな観光スポットを<br>中小企業支援へ緊急対策継続を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "川松真一朗（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "都市の貴重なオープンスペース。東京の魅力向上へ、使用許可の緩和等で世界の人々を魅了する雰囲気づくりを。取組は。",
+  "SubTopic": "隅田川"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "産業労働局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "小規模企業を中心に1800件超が利用。引き続き継続的な実施や企業の資金ニーズを踏まえた制度の拡充を検討。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00246",
+  "MainTopic": "隅田川に新たな観光スポットを<br>中小企業支援へ緊急対策継続を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "川松真一朗（自民党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "中小企業支援のため、制度の継続と運転資金の上乗せ等支援策の充実を。",
+  "SubTopic": "特別借換融資"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "警視総監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "各警察署の生活安全課中心に情報を共有化。学校とは相互連絡制度で情報共有。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00247",
+  "MainTopic": "学校・警察は不審者対策連携を<br>認証保育所の補助格差是正を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "上田令子（みんな）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "学校や自治体と連携を。",
+  "SubTopic": "子供の不審者対策"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "専門性と広域的体制が不可欠。虐待防止等の観点から今後も区と幅広く議論。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00248",
+  "MainTopic": "学校・警察は不審者対策連携を<br>認証保育所の補助格差是正を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "上田令子（みんな）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "問題認識を含めた見解とよりよい相談所運営に向けた進捗状況は。",
+  "SubTopic": "児童相談所の区移管"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "福祉保健局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "保育士処遇が不十分なこと等国制度への位置付けを提案要求。保護者への補助は実施主体の区市町村が判断すべき。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00249",
+  "MainTopic": "学校・警察は不審者対策連携を<br>認証保育所の補助格差是正を",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "上田令子（みんな）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "認可園との格差へ対策は。",
+  "SubTopic": "認証保育所補助"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "高齢者の居住安定確保プランを策定しケア付き住まいや都市型軽費老人ホームの整備を推進。関係局等と連携し取り組む。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00250",
+  "MainTopic": "低所得高齢者の住まいの確保を<br>地域の空き家活用を促進せよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "みやせ英治（みんなの党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "福祉と住宅政策の連携が必要。低所得高齢者の住宅問題への所見は。",
+  "SubTopic": "高齢者の住まい"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "区市町村中心にＮＰＯ等と連携した取組が重要。区市町村へ協議会設置促す。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00251",
+  "MainTopic": "低所得高齢者の住まいの確保を<br>地域の空き家活用を促進せよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "みやせ英治（みんなの党）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "居住支援協議会の取組事例を都が紹介し全区市町村での設置誘導を。",
+  "SubTopic": "地域の空き家活用"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "知事"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "一生懸命仕事をしていくことが都民の信頼回復への近道。粉骨砕身働いていきたい。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00252",
+  "MainTopic": "知事は辞職し、都民に信を問え<br>新国立競技場建設の見直しを",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山内れい子（ネット）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "道義的、政治的責任免れない。信頼回復と説明責任をどう果たすのか。",
+  "SubTopic": "知事の資金問題"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    50
+  ],
+  "AnswerSpeaker": [
+    "東京都技監"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "25年6月に地区計画を決定。歴史的景観保全や緑豊かな都市空間を創出する。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00253",
+  "MainTopic": "知事は辞職し、都民に信を問え<br>新国立競技場建設の見直しを",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 50,
+  "QuestionSpeaker": "山内れい子（ネット）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "風致地区制度等を尊重し、新国立競技場を含め見直すべき。",
+  "SubTopic": "神宮外苑地区のまちづくり"
+},
+{
+  "AnswerEndingLine": [
+    0
+  ],
+  "AnswerLength": [
+    100
+  ],
+  "AnswerSpeaker": [
+    "総務局長"
+  ],
+  "AnswerStartingLine": [
+    0
+  ],
+  "AnswerSummary": [
+    "大会の開催効果を都内全域に広く波及させることが重要。市町村等と連携を図り、多摩の多様な魅力を広く発信していく。"
+  ],
+  "Date": "2013-12-06",
+  "ID": "PoliInfo2-DialogSummarization-JA-Formal-Test-00254",
+  "MainTopic": "2020年大会を有効活用し<br>多摩地域の活性化につなげよ",
+  "Meeting": "平成25年第4回定例会",
+  "Prefecture": "東京都",
+  "QuestionEndingLine": 0,
+  "QuestionLength": 100,
+  "QuestionSpeaker": "石川良一（日本維新）",
+  "QuestionStartingLine": 0,
+  "QuestionSummary": "オリンピック・パラリンピックの開催を多摩振興策に有効活用し、地域の活性化につなげる視点を持つべき。見解は。",
+  "SubTopic": "多摩振興"
+}
+]
