@@ -308,7 +308,7 @@ For more information, please check the website below.
 
 
 ```
-@article{PoliIonfo2,
+@article{PoliInfo2,
 title = {Overview of the NTCIR-15 QA Lab-PoliInfo-2 Task},
 author = {Yasutomo Kimura and Hideyuki Shibuki and Hokuto Ototake and Yuzu Uchida and Keiichi Takamaru and Madoka Ishioroshi and Teruko Mitamura and Masaharu Yoshioka and Tomoyosi Akiba and Yasuhiro Ogawa and Minoru Sasaki and Kenichi Yokote and Tatsunori Mori and Kenji Araki and Satoshi Sekine and Noriko Kando},
 journal = {Proceedings of The 15th NTCIR Conference},
