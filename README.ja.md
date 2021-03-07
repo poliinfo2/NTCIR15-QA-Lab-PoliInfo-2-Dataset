@@ -1,17 +1,9 @@
 # NTCIR15 QA Lab-Poliinfo-2 Dataset
 
-## For Japanese
+NTCIR15 QA Lab-PoliInfo-2 データセットのリリース
 
-README.ja.md is written in Japanese.
-
-- https://github.com/poliinfo2/NTCIR15-QA-Lab-PoliInfo-2-Dataset/README.ja.md
-
-
-## Overview
-
-We have released datasets for NTCIR15 QA Lab-PoliInfo-2.
-We ran the shared task from June 2019 to December 2020. 
-For more information, please check the website below. 
+私たちは、2019年6月から2020年12月まで、QA Lab-PoliInfo-2を開催しました。 
+詳細については、下記のウェブサイトをご覧ください。
 
 - https://poliinfo2.net/
 - https://poliinfo2.github.io/
@@ -19,16 +11,24 @@ For more information, please check the website below.
 
 ## Dialog Summarization
 
-- Purpose
-  - Dialog summarization task aims at summarizing the transcript of local assembly, taking the structure of dialogue into account. In PoliInfo2, systems participating in this task summarize the transcript based on the dialogue structure, which consists of “Members' questions” and “Governor's answer”. Given the transcript and summary conditions (speaker name and number of summary characters etc), they generate the structured document. 
-- Input
-  - Assembly minutes 
-  - Answer sheet : Summary sections are blanks. 
-- Output 
-  - Answer sheet : Participants put the summary in the answer column. 
-- Evaluation 
-  - ROUGE scores 
-  - Human evaluation by participants 
+- 目的
+  - 政治家の発言の信憑性を判断するためには，政治課題に関する議論がどのように行われているのか，知る必要があり，議論をしている相手の発言や文脈を考慮しなければならない．政治課題に関する議論は，議会において行われており，議会会議録として質問や答弁が残されている．しかしながら，議会会議録は，発言を書き起こした文書であり，まとめられておらず，読みづらいという問題がある．特に，東京都議会をはじめとする多くの地方議会では，一問一答方式ではなく，一括質問一括答弁方式がとられており，質問と答弁が離れた位置に存在する．また，質問に対して，知事が答弁する場合と，総務部長や教育長のような知事以外の出席者が答弁する場合がある．さらには，知事による答弁を補足する形で複数の出席者が答弁することもある．従って，質疑（質問と答弁の組）を要約するためには，議論の構造を考慮することが求められる．そこで，Dialog Summarization では地方議会における「議員の質問」と「知事側の答弁」という対話構造を考慮しながら要約することを目標としている．
+
+- 入力  
+  - 東京都議会会議録
+  - 出題ファイル
+- 出力  
+  - 質問と答弁の構造を考慮した要約結果（都議会だよりの要約を正解とする）
+- 評価  
+  - ROUGE
+    - 動評価（Leader boardのスコア）に用いる
+  - 以下の観点からの人手評価
+    - Content: 参照要約との内容の合致
+            Well-formed: 文法的な正しさ
+            Non-twisted: 話者の考えが歪曲されていない
+            Sentence goodness: それぞれの発言で見た場合の要約としての全体的な良さ
+            Dialog goodness: 質問と回答のセットで見た場合の要約としての全体的な良さ
+
 
 ### Json example
 
@@ -92,15 +92,24 @@ For more information, please check the website below.
 
 ## Stance Classification
 
-- Purpose  
-  - Stance classification task aims at estimating politician's position from politician's utterances. In PoliInfo2, system participating in the task estimates the stances of political parties from the utterances of the members of the Tokyo Metropolitan Assembly. Given the Tokyo Metropolitan Assembly, topics (agenda), member's list and political denomination list, and the systems classify their stance into two categories (agree or disagree) for each agenda. 
-- Input  
-  - Assembly minutes
-  - Answer sheet : The place for agreement and disagreement of multiple bills is blank
-- Output  
-  - Answer sheet : Enter agreement or disagreement in the blank
-- Evaluation  
-  - Sum of correct answer rates for each bill 
+- 目的
+  - 目標・意義
+政治家の発言の信憑性を判断するためには，政治家がどのような立場で発言しているのか，知ることが必要である．政治家の立場を理解するためには，一つの政治課題に対する賛成・反対を明らかにするだけではなく，複数の政治課題に対する賛成・反対を総合して判断しなければならない．地方議会では複数の政治課題に対して同じ立場の人が集まり「会派」を組んでいる．Stance classificationでは政治家の発言から，所属する会派の立場，すなわち，それぞれの議案に対する賛否を推定することを目標とする．
+
+- 入力 
+  - 東京都議会会議録 
+  - 出題ファイル 
+- 出力 
+  - 各議案に対する会派の「賛成 or 反対」
+    - 自動評価（Leader boardのスコア）に用いる
+    - ProsConsPartyListBinaryに回答
+  - 各議案に対する会派の「賛成 or 反対 or 言及なし」
+    - 人手評価に用いる
+    - ProsConsPartyListTernaryに回答
+- 評価
+  - 議案ごとの正解率の総和
+
+
 
 ### Json example
 
@@ -270,17 +279,20 @@ For more information, please check the website below.
   
 ## Entity Linking
 
-- Purpose
-  - Entity linking task aims at identifying political terms included in politicians' statements, and is to resolve mention recognition, disambiguation and linking the mention with the knowledge base. In PoliInfo2, Entity linking is the task of assigning a unique identity of "legal name" which is one of the political terms. Given local assembly member's utterances, and systems extract a mention of “law name” and link the mention with the list of law names or Wikipedia. 
-- Input 
-  - Answer sheet（morpheme）
-  - Wikipedia  (2019-12-01)
-- Output  
-  - Answer sheet（morpheme，IOB2，mention，URL） 
-  - Mention extraction：IOB２  
-  - Disambiguation：Link to Wikipedia  
-- Evaluation  
-  - Recall，Precision，F-measure  
+
+- 目的 
+  - 政治家の発言の信憑性を判断するためには，発言の根拠となる一次情報が存在を明らかにする必要がある．一次情報は，過去の会議録，法令集，文書等に記載されている可能性があり，これを現在の発言と結びつけることで，フェイクニュース検出やファクトチェックに役に立つと考えられる．Entity Linkingサブタスクでは，参照すべき一次情報が，会議録外の知識ベース・言語資源に集約されていることを想定して，議会での発言とwikipediaを結びつけることを目指す．
+
+- 入力 
+  - 地方議会会議録および国会会議録
+  -  Wikipedia dump（2019-12-01）
+- 出力
+  - 抽出された法律名（メンション）
+  - メンションに対応する Wikipedia URL
+- 評価
+  - 抽出：形態素単位の抽出精度
+  - 連結：連結したURLの正解率
+
 
 
 ### A list of files
@@ -295,13 +307,15 @@ For more information, please check the website below.
 
 ## Topiec Detection
 
-- Purpose
-  - Topic Detection aims to make a list of appropriate agendas for each member from the breaking news version of the minutes.
-- Input
-  - Preliminary Report of the First and Second Regular Sessions of the Tokyo Metropolitan Assembly, 2020
-        - Representative Questions and General Questions
-- Output
-  - A list of appropriate agendas
+- 目的
+  - 各地方自治体が発行する「議会だより」は、地域住民に議会の内容を分かりやすく伝える一つの方法であるが、人手により作成されるため発行までに時間がかかる。一方では、議員からの代表質問や一般質問などの内容を素早く伝えるために会議録の「速報版」を公開しているが、議題や論点の分かりやすさという点では改善の余地がある。そこで、Topic Detectionでは、会議録の速報版から、議題や論点として「適切な議題の一覧」を議員ごとにまとめて提示すること目的とする。また、「適切な議題とは何か」ということに関しても議論していきたい。
+
+- 入力
+  - 東京都議会の令和2年第1回および第2回定例会における速報版(または代表質問と一般質問)
+- 出力
+  - 議員ごとにまとめられた議題(Dialog Topic)となる語句の一覧
+- 評価
+  - 提案から提出までの時間的な制約もあるため、オープンタスクと位置づけ、スコアによる優劣はつけない。参加者からの結果の提出後、タスクオーガナイザと参加者間で以下の点などを話し合う。
 
 ## Bibtex
 - Please use the following bibtex, when you refer NTCIR15 QA Lab-PoliInfo-2 dataset from your papers.
