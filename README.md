@@ -4,7 +4,7 @@
 
 README.ja.md is written in Japanese.
 
-- https://github.com/poliinfo2/NTCIR15-QA-Lab-PoliInfo-2-Dataset/README.ja.md
+- https://github.com/poliinfo2/NTCIR15-QA-Lab-PoliInfo-2-Dataset/blob/main/README.ja.md
 
 
 ## Overview
